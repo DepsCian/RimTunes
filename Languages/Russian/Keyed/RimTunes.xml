@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <DepsCian.RimTunes.Settings.Tab.Game>Игра</DepsCian.RimTunes.Settings.Tab.Game>
+    <DepsCian.RimTunes.Settings.Tab.Player>Плеер</DepsCian.RimTunes.Settings.Tab.Player>
+    <DepsCian.RimTunes.Settings.Tab.Overlay>Оверлей</DepsCian.RimTunes.Settings.Tab.Overlay>
+    <DepsCian.RimTunes.Settings.Tab.Info>Информация</DepsCian.RimTunes.Settings.Tab.Info>
+
+    <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>Запускать музыку при загрузке</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
+    <DepsCian.RimTunes.Settings.Game.RememberLastSong>Запоминать последнюю песню</DepsCian.RimTunes.Settings.Game.RememberLastSong>
+
+    <DepsCian.RimTunes.Settings.Player.Autoplay>Автовоспроизведение</DepsCian.RimTunes.Settings.Player.Autoplay>
+
+    <DepsCian.RimTunes.Settings.Overlay.Scale>Масштаб интерфейса</DepsCian.RimTunes.Settings.Overlay.Scale>
+    <DepsCian.RimTunes.Settings.Overlay.LockPosition>Закрепить позицию</DepsCian.RimTunes.Settings.Overlay.LockPosition>
+    <DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>Показывать таймлайн</DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>
+    <DepsCian.RimTunes.Settings.Overlay.Colors.Background>Цвет фона</DepsCian.RimTunes.Settings.Overlay.Colors.Background>
+    <DepsCian.RimTunes.Settings.Overlay.Colors.Text>Цвет текста</DepsCian.RimTunes.Settings.Overlay.Colors.Text>
+    <DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>Цвет таймлайна</DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>
+    <DepsCian.RimTunes.Settings.Overlay.Colors.Button>Цвет кнопок</DepsCian.RimTunes.Settings.Overlay.Colors.Button>
+
+    <DepsCian.RimTunes.Settings.Info.Version>Версия</DepsCian.RimTunes.Settings.Info.Version>
+
+    <DepsCian.RimTunes.Settings.Info.Description>RimTunes - Продвинутое управление музыкой для RimWorld
+        Автор: Сергей Мельничук (DepsCian)
+        Форк Music Manager от Fluffy</DepsCian.RimTunes.Settings.Info.Description>
+    <DepsCian.RimTunes.Settings.Info.ReportIssue>Сообщить об ошибке</DepsCian.RimTunes.Settings.Info.ReportIssue>
+    <DepsCian.RimTunes.Settings.Info.SuggestFeature>Предложить функцию</DepsCian.RimTunes.Settings.Info.SuggestFeature>
+    <DepsCian.RimTunes.Settings.Info.Reset>Сбросить настройки</DepsCian.RimTunes.Settings.Info.Reset>
+    <DepsCian.RimTunes.Settings.Info.Reset.Confirm>Вы уверены, что хотите сбросить все настройки по умолчанию?</DepsCian.RimTunes.Settings.Info.Reset.Confirm>
+    <DepsCian.RimTunes.Settings.Info.Reset.Complete>Настройки были сброшены по умолчанию</DepsCian.RimTunes.Settings.Info.Reset.Complete>
+
+    <DepsCian.RimTunes.Common.Settings>Настройки</DepsCian.RimTunes.Common.Settings>
+    <DepsCian.RimTunes.Common.Confirm>Подтвердить</DepsCian.RimTunes.Common.Confirm>
+    <DepsCian.RimTunes.Common.Create>Создать</DepsCian.RimTunes.Common.Create>
+    <DepsCian.RimTunes.Common.Rename>Переименовать</DepsCian.RimTunes.Common.Rename>
+    <DepsCian.RimTunes.Common.Add>Добавить</DepsCian.RimTunes.Common.Add>
+    <DepsCian.RimTunes.Common.Delete>Удалить</DepsCian.RimTunes.Common.Delete>
+    <DepsCian.RimTunes.Common.Close>Закрыть</DepsCian.RimTunes.Common.Close>
+    <DepsCian.RimTunes.Common.Search>Поиск</DepsCian.RimTunes.Common.Search>
+    <DepsCian.RimTunes.Common.Play>Воспроизвести</DepsCian.RimTunes.Common.Play>
+    <DepsCian.RimTunes.Common.Refresh>Обновить</DepsCian.RimTunes.Common.Refresh>
+    <DepsCian.RimTunes.Common.URL>URL</DepsCian.RimTunes.Common.URL>
+    <DepsCian.RimTunes.Common.Error>Ошибка</DepsCian.RimTunes.Common.Error>
+    <DepsCian.RimTunes.Common.AddMusic>Добавить музыку</DepsCian.RimTunes.Common.AddMusic>
+
+    <DepsCian.RimTunes.Playlists.PlaylistEmpty>Плейлист пуст</DepsCian.RimTunes.Playlists.PlaylistEmpty>
+    <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>Добавьте ваши песни в плейлист</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
+    <DepsCian.RimTunes.Playlists.Library>Моя библиотека</DepsCian.RimTunes.Playlists.Library>
+    <DepsCian.RimTunes.Playlists.Playlists>Плейлисты</DepsCian.RimTunes.Playlists.Playlists>
+    <DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>Новый плейлист</DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>Переименовать плейлист</DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>
+    <DepsCian.RimTunes.Playlists.Messages.PlaylistCreated>Плейлист создан</DepsCian.RimTunes.Playlists.Messages.PlaylistCreated>
+    <DepsCian.RimTunes.Playlists.Messages.PlaylistRenamed>Плейлист переименован</DepsCian.RimTunes.Playlists.Messages.PlaylistRenamed>
+    <DepsCian.RimTunes.Playlists.Messages.PlaylistDeleted>Плейлист удален</DepsCian.RimTunes.Playlists.Messages.PlaylistDeleted>
+    <DepsCian.RimTunes.Playlists.Messages.PlaylistExist>Плейлист с таким именем уже существует</DepsCian.RimTunes.Playlists.Messages.PlaylistExist>
+    <DepsCian.RimTunes.Playlists.ReservedName>Это имя зарезервировано системой</DepsCian.RimTunes.Playlists.ReservedName>
+    <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>Добавить в плейлист</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>
+    <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>Песня добавлена в плейлист</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>
+    <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>Удалить из плейлиста</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>
+    <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>Песня удалена из плейлиста</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>
+
+    <DepsCian.RimTunes.Songs.Columns.Name>Название</DepsCian.RimTunes.Songs.Columns.Name>
+    <DepsCian.RimTunes.Songs.Columns.Duration>Длительность</DepsCian.RimTunes.Songs.Columns.Duration>
+    <DepsCian.RimTunes.Songs.Delete>Удалить песню</DepsCian.RimTunes.Songs.Delete>
+    <DepsCian.RimTunes.Songs.Delete.Confirm>Вы уверены, что хотите удалить эту песню?</DepsCian.RimTunes.Songs.Delete.Confirm>
+    <DepsCian.RimTunes.Songs.Delete.Complete>Песня была удалена</DepsCian.RimTunes.Songs.Delete.Complete>
+    <DepsCian.RimTunes.Songs.Rename>Переименовать песню</DepsCian.RimTunes.Songs.Rename>
+
+    <DepsCian.RimTunes.AddMusic.Tabs.Library>Библиотека</DepsCian.RimTunes.AddMusic.Tabs.Library>
+    <DepsCian.RimTunes.AddMusic.Tabs.Online>Онлайн</DepsCian.RimTunes.AddMusic.Tabs.Online>
+    <DepsCian.RimTunes.AddMusic.Tabs.Local>Локальные файлы</DepsCian.RimTunes.AddMusic.Tabs.Local>
+    <DepsCian.RimTunes.AddMusic.Tabs.Local.Back>Назад</DepsCian.RimTunes.AddMusic.Tabs.Local.Back>
+</LanguageData>
