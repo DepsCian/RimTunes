@@ -25,6 +25,13 @@
     <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>Запускати музику при завантаженні</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
     <DepsCian.RimTunes.Settings.Game.RememberLastSong>Запам'ятовувати останню пісню</DepsCian.RimTunes.Settings.Game.RememberLastSong>
 
+    <DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>Відкрити інтерфейс</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+    <DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>Приховати оверлей</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+    <DepsCian.RimTunes.Settings.Hotkeys.NextSong>Наступна пісня</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+    <DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>Попередня пісня</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+    <DepsCian.RimTunes.Settings.Hotkeys.Pause>Відтворити/пауза</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+    <DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>Увага! RimTunes не перевіряє на конфлікти з RimWorld</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
+
     <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>Показувати кількість пісень</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
     <DepsCian.RimTunes.Settings.Player.Autoplay>Автовідтворення</DepsCian.RimTunes.Settings.Player.Autoplay>
 
@@ -75,6 +82,7 @@
     <DepsCian.RimTunes.Songs.CopySelected>Копіювати вибране</DepsCian.RimTunes.Songs.CopySelected>
     <DepsCian.RimTunes.Songs.PasteFromClipboard>Вставити з буфера</DepsCian.RimTunes.Songs.PasteFromClipboard>
     <DepsCian.RimTunes.Songs.CopiedToClipboard>Скопійовано в буфер</DepsCian.RimTunes.Songs.CopiedToClipboard>
+    <DepsCian.RimTunes.Songs.GoToModPlaylist>Перейти до плейлиста джерела</DepsCian.RimTunes.Songs.GoToModPlaylist>
 
     <!-- Playlists -->
     <DepsCian.RimTunes.Playlists.Library>Моя бібліотека</DepsCian.RimTunes.Playlists.Library>
@@ -90,6 +98,14 @@
     <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>Додайте ваші пісні у плейлист</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
     <DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>Перемістити вгору</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
     <DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>Перемістити вниз</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+    <DepsCian.RimTunes.Playlists.Merge>Об'єднати</DepsCian.RimTunes.Playlists.Merge>
+    <DepsCian.RimTunes.Playlists.Merge.Confirmation>Ви впевнені, що хочете об'єднати плейлисти?</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+    <DepsCian.RimTunes.Playlists.Merge.Complete>Плейлисти були об'єднані</DepsCian.RimTunes.Playlists.Merge.Complete>
+    <DepsCian.RimTunes.Playlists.ChangeIcon>Змінити іконку</DepsCian.RimTunes.Playlists.ChangeIcon>
+
+    <!-- Search -->
+    <DepsCian.RimTunes.Search.NoSongsFound>Нічого не знайдено</DepsCian.RimTunes.Search.NoSongsFound>
+    <DepsCian.RimTunes.Search.NoSongsMatch>За цим запитом нічого не знайдено</DepsCian.RimTunes.Search.NoSongsMatch>
 
     <!-- Columns -->
     <DepsCian.RimTunes.Columns.Name.Label>Назва</DepsCian.RimTunes.Columns.Name.Label>
@@ -108,4 +124,59 @@
     <!-- States -->
     <DepsCian.RimTunes.States.War>Війна</DepsCian.RimTunes.States.War>
     <DepsCian.RimTunes.States.Peace>Мир</DepsCian.RimTunes.States.Peace>
+
+    <!-- Dialogs -->
+    <DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>XML скопійовано</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+    <DepsCian.RimTunes.Playlists.Dialogs.CopyXml>Скопіювати XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>Експортувати плейлист</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>Імпортувати плейлист</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.PasteXml>Вставити XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>Вставити з буфера</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>Прогрес імпорту</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>Прогрес експорту</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.LocalSong>Локальна пісня</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>Віддалена пісня</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.Uploading>Завантаження</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+    <DepsCian.RimTunes.Playlists.Dialogs.Downloading>Скачування</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+    <DepsCian.RimTunes.Playlists.Dialogs.Processing>Обробка</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+    <DepsCian.RimTunes.Playlists.Dialogs.Queued>В черзі</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+    <DepsCian.RimTunes.Playlists.Dialogs.Completed>Завершено</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+    <DepsCian.RimTunes.Playlists.Dialogs.Failed>Помилка</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+    <DepsCian.RimTunes.Playlists.Dialogs.RetryImport>Повторити імпорт</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>Панель модів</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+    <DepsCian.RimTunes.Playlists.Dialogs.StartImport>Почати імпорт</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>Об'єднати плейлист</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>Замінити плейлист</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.Cancel>Скасувати</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+    <DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>Немає підключення до інтернету</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+    <DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>Виберіть хоча б одну пісню</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>Помилка розбору XML</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportError>Помилка імпорту</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportError>Помилка експорту</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>Прогрес завантаження</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>Помилки завантаження</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>В процесі</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>Загальний прогрес</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.Downloaded>Завантажено</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+    <DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>Плейлист імпортовано</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+    <DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>Немає пісень для імпорту</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>Доступні пісні</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>Пісні, які можна імпортувати</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>Віддалені пісні</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>Пісні, які потрібно завантажити</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>Недоступні пісні</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>Пісні, які потребують відсутніх модів</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>Прогрес попереднього перегляду модів</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.Checking>Перевірка</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+    <DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>Пісню не знайдено</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>Віддалена пісня не має URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+    <DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>Не вдалося імпортувати локальну пісню</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>Не вдалося імпортувати віддалену пісню</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModInactive>Мод неактивний</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>Мод не встановлено</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>Доступно в Майстерні</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>Невідомий мод</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>Неможливо експортувати порожній плейлист</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML містить порожній плейлист</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML не може бути порожнім</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>
 </LanguageData>

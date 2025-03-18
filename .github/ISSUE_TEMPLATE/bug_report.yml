@@ -1,13 +1,13 @@
-name: RimTunes Bug Report
+name: Bug Report
 description: Report a bug you’ve encountered while using RimTunes.
-title: "[Bug] <Short description of the bug>"
+title: "<Short description of the bug>"
 labels: ["bug"]
 assignees: []
 body:
   - type: markdown
     attributes:
       value: |
-        # Welcome to RimTunes Bug Reporting!
+        # Welcome to Bug Reporting!
         Please fill out this form completely to help us resolve your issue quickly. Incomplete reports may delay the process.
 
   - type: checkboxes
@@ -16,14 +16,10 @@ body:
       label: Before You Report
       description: Complete these troubleshooting steps **before** submitting your bug report. Check all that apply
       options:
-        - label: I’ve restarted the game after enabling/disabling mods or changing settings
-          required: false
         - label: I’ve tested with a new save to see if the bug persists
-          required: false
-        - label: I’ve disabled all mods except Core and RimTunes dependencies to check for conflicts
-          required: false
+          required: true
         - label: I’ve confirmed RimWorld and RimTunes are on the latest versions
-          required: false
+          required: true
 
   - type: input
     id: bug-summary
@@ -126,7 +122,7 @@ body:
         - HugsLib
         - RimTunes
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: additional-context

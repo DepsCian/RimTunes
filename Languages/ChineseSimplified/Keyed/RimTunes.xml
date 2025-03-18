@@ -18,6 +18,7 @@
 
     <!-- Settings -->
     <DepsCian.RimTunes.Settings.Tab.Game>游戏</DepsCian.RimTunes.Settings.Tab.Game>
+    <DepsCian.RimTunes.Settings.Tab.Hotkeys>快捷键</DepsCian.RimTunes.Settings.Tab.Hotkeys>
     <DepsCian.RimTunes.Settings.Tab.Player>播放器</DepsCian.RimTunes.Settings.Tab.Player>
     <DepsCian.RimTunes.Settings.Tab.Overlay>覆盖层</DepsCian.RimTunes.Settings.Tab.Overlay>
     <DepsCian.RimTunes.Settings.Tab.Info>信息</DepsCian.RimTunes.Settings.Tab.Info>
@@ -25,6 +26,12 @@
     <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>加载时播放音乐</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
     <DepsCian.RimTunes.Settings.Game.RememberLastSong>记住最后播放的音乐</DepsCian.RimTunes.Settings.Game.RememberLastSong>
 
+    <DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>打开界面</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+    <DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>隐藏覆盖层</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+    <DepsCian.RimTunes.Settings.Hotkeys.NextSong>下一首歌曲</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+    <DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>上一首歌曲</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+    <DepsCian.RimTunes.Settings.Hotkeys.Pause>播放/暂停</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+    <DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>警告! RimTunes 不会检查 RimWorld 中的快捷键冲突</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
     <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>显示播放列表歌曲数量</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
     <DepsCian.RimTunes.Settings.Player.Autoplay>自动播放</DepsCian.RimTunes.Settings.Player.Autoplay>
 
@@ -75,6 +82,11 @@
     <DepsCian.RimTunes.Songs.CopySelected>复制选中</DepsCian.RimTunes.Songs.CopySelected>
     <DepsCian.RimTunes.Songs.PasteFromClipboard>从剪贴板粘贴</DepsCian.RimTunes.Songs.PasteFromClipboard>
     <DepsCian.RimTunes.Songs.CopiedToClipboard>已复制到剪贴板</DepsCian.RimTunes.Songs.CopiedToClipboard>
+    <DepsCian.RimTunes.Songs.GoToModPlaylist>到 Mod 播放列表</DepsCian.RimTunes.Songs.GoToModPlaylist>
+
+    <!-- Search -->
+    <DepsCian.RimTunes.Search.NoSongsFound>未找到歌曲</DepsCian.RimTunes.Search.NoSongsFound>
+    <DepsCian.RimTunes.Search.NoSongsMatch>没有匹配的歌曲</DepsCian.RimTunes.Search.NoSongsMatch>
 
     <!-- Playlists -->
     <DepsCian.RimTunes.Playlists.Library>我的音乐库</DepsCian.RimTunes.Playlists.Library>
@@ -90,6 +102,10 @@
     <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>向播放列表中添加歌曲</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
     <DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>上移</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
     <DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>下移</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+    <DepsCian.RimTunes.Playlists.Merge>合并</DepsCian.RimTunes.Playlists.Merge>
+    <DepsCian.RimTunes.Playlists.Merge.Confirmation>您确定要合并播放列表吗？</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+    <DepsCian.RimTunes.Playlists.Merge.Complete>播放列表已合并</DepsCian.RimTunes.Playlists.Merge.Complete>
+    <DepsCian.RimTunes.Playlists.ChangeIcon>更改图标</DepsCian.RimTunes.Playlists.ChangeIcon>
 
     <!-- Columns -->
     <DepsCian.RimTunes.Columns.Name.Label>名称</DepsCian.RimTunes.Columns.Name.Label>
@@ -108,4 +124,59 @@
     <!-- States -->
     <DepsCian.RimTunes.States.War>战争</DepsCian.RimTunes.States.War>
     <DepsCian.RimTunes.States.Peace>和平</DepsCian.RimTunes.States.Peace>
+
+    <!-- Dialogs -->
+    <DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>已复制 XML</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+    <DepsCian.RimTunes.Playlists.Dialogs.CopyXml>复制 XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>导出播放列表</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>导入播放列表</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.PasteXml>粘贴 XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>从剪贴板粘贴</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>导入进度</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>导出进度</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.LocalSong>本地歌曲</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>远程歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.Uploading>上传中</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+    <DepsCian.RimTunes.Playlists.Dialogs.Downloading>下载中</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+    <DepsCian.RimTunes.Playlists.Dialogs.Processing>处理中</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+    <DepsCian.RimTunes.Playlists.Dialogs.Queued>已排队</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+    <DepsCian.RimTunes.Playlists.Dialogs.Completed>已完成</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+    <DepsCian.RimTunes.Playlists.Dialogs.Failed>失败</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+    <DepsCian.RimTunes.Playlists.Dialogs.RetryImport>重试导入</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>Mod 面板</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+    <DepsCian.RimTunes.Playlists.Dialogs.StartImport>开始导入</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>合并播放列表</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>替换播放列表</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.Cancel>取消</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+    <DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>无网络连接</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+    <DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>至少选择一首歌曲</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+    <DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>XML 解析错误</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ImportError>导入错误</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ExportError>导出错误</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>下载进度</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>下载错误</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+    <DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>进行中</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>总进度</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.Downloaded>已下载</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+    <DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>播放列表已导入</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+    <DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>没有可导入的歌曲</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+    <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>可用歌曲</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>可以导入的歌曲</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>远程歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>需要下载的歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>不可用歌曲</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>需要缺失 Mod 的歌曲</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>Mod 预览进度</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+    <DepsCian.RimTunes.Playlists.Dialogs.Checking>检查中</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+    <DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>未找到歌曲</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>远程歌曲无 URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+    <DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>本地歌曲导入失败</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>远程歌曲导入失败</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModInactive>Mod 未激活</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>Mod 未安装</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+    <DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>创意工坊可用</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+    <DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>未知 Mod</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>无法导出空播放列表</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML 包含空播放列表</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+    <DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML 不能为空</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>
 </LanguageData>
