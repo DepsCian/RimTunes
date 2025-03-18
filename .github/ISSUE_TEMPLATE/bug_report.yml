@@ -21,15 +21,6 @@ body:
         - label: I’ve confirmed RimWorld and RimTunes are on the latest versions
           required: true
 
-  - type: input
-    id: bug-summary
-    attributes:
-      label: Bug Summary
-      description: Provide a short, clear description of the bug
-      placeholder: e.g., Volume slider doesn’t respond to input
-    validations:
-      required: true
-
   - type: textarea
     id: steps-to-reproduce
     attributes:
