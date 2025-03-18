@@ -14,23 +14,23 @@ body:
     id: pre-checks
     attributes:
       label: Before You Report
-      description: "Complete these troubleshooting steps **before** submitting your bug report. Check all that apply:"
+      description: Complete these troubleshooting steps **before** submitting your bug report. Check all that apply
       options:
-        - label: I’ve restarted the game after enabling/disabling mods or changing settings.
+        - label: I’ve restarted the game after enabling/disabling mods or changing settings
           required: false
-        - label: I’ve tested with a new save to see if the bug persists.
+        - label: I’ve tested with a new save to see if the bug persists
           required: false
-        - label: I’ve disabled all mods except Core and RimTunes dependencies to check for conflicts.
+        - label: I’ve disabled all mods except Core and RimTunes dependencies to check for conflicts
           required: false
-        - label: I’ve confirmed RimWorld and RimTunes are on the latest versions.
+        - label: I’ve confirmed RimWorld and RimTunes are on the latest versions
           required: false
 
   - type: input
     id: bug-summary
     attributes:
       label: Bug Summary
-      description: Provide a short, clear description of the bug.
-      placeholder: "e.g., Volume slider doesn’t respond to input"
+      description: Provide a short, clear description of the bug
+      placeholder: e.g., Volume slider doesn’t respond to input
     validations:
       required: true
 
@@ -38,7 +38,7 @@ body:
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce
-      description: List the exact steps to trigger the bug. Be specific!
+      description: List the exact steps to trigger the bug. Be specific
       placeholder: |
         1. Launch a save.
         2. Open the RimTunes interface.
@@ -51,8 +51,8 @@ body:
     id: expected-behavior
     attributes:
       label: Expected Behavior
-      description: What should happen when you follow the steps above?
-      placeholder: "e.g., The volume should increase or decrease when moving the slider."
+      description: What should happen when you follow the steps above
+      placeholder: e.g., The volume should increase or decrease when moving the slider
     validations:
       required: true
 
@@ -60,8 +60,8 @@ body:
     id: actual-behavior
     attributes:
       label: Actual Behavior
-      description: What actually happens instead?
-      placeholder: "e.g., The slider moves, but the volume stays the same."
+      description: What actually happens instead
+      placeholder: e.g., The slider moves, but the volume stays the same
     validations:
       required: true
 
@@ -69,19 +69,19 @@ body:
     id: log-method
     attributes:
       label: Log Submission Method
-      description: Choose how you’ll provide logs (required for debugging).
+      description: Choose how you’ll provide logs (optional, but highly recommended for debugging)
       options:
         - HugsLib Log URL
         - Manual Player.log Files
     validations:
-      required: true
+      required: false
 
   - type: input
     id: hugslib-log-url
     attributes:
       label: HugsLib Log URL
-      description: If using HugsLib, paste the log URL here (Ctrl + F12 in-game).
-      placeholder: "e.g., https://gist.github.com/..."
+      description: If using HugsLib, paste the log URL here (Ctrl + F12 in-game)
+      placeholder: e.g., https://gist.github.com/...
     validations:
       required: false
 
@@ -89,7 +89,7 @@ body:
     id: manual-logs
     attributes:
       label: Manual Player.log Files
-      description: If uploading manually, provide links or attach Player.log files for both mod enabled and disabled states.
+      description: If uploading manually, provide links or attach Player.log files for both mod enabled and disabled states
       placeholder: |
         - Mod Enabled: [Link or attach]
         - Mod Disabled: [Link or attach]
@@ -100,19 +100,19 @@ body:
     id: save-file
     attributes:
       label: Save File
-      description: Does this bug require a specific save file to reproduce?
+      description: Does this bug require a specific save file to reproduce
       options:
-        - label: Yes, I’ll attach a save file (upload as .zip or provide a link below).
+        - label: Yes, I’ll attach a save file (upload as .zip or provide a link below)
           required: false
-        - label: No, a save file isn’t needed.
+        - label: No, a save file isn’t needed
           required: false
 
   - type: input
     id: save-file-link
     attributes:
       label: Save File Link
-      description: If applicable, provide a link to your save file.
-      placeholder: "e.g., https://drive.google.com/..."
+      description: If applicable, provide a link to your save file
+      placeholder: e.g., https://drive.google.com/...
     validations:
       required: false
 
@@ -120,7 +120,7 @@ body:
     id: mod-list
     attributes:
       label: Mod List
-      description: List all active mods or attach ModsConfig.xml.
+      description: List all active mods or attach ModsConfig.xml
       placeholder: |
         - Core
         - HugsLib
@@ -133,7 +133,7 @@ body:
     attributes:
       label: Additional Context
       description: Anything else we should know? (e.g., recent updates, specific conditions)
-      placeholder: "e.g., This started after updating RimWorld to version X."
+      placeholder: e.g., This started after updating RimWorld to version X
     validations:
       required: false
 
@@ -142,25 +142,26 @@ body:
       value: |
         ## File Locations
         Need help finding files? Here’s where to look:
-        - **Player.log**:  
-          - Windows: `%appdata%/../LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/`  
-          - MacOS: `~/Library/Application Support/RimWorld By Ludeon Studios/`  
-          - Linux: `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/`  
-        - **ModsConfig.xml**: In the `Config` subdirectory.  
-        - **Save Files**: In the `Saves` subdirectory.  
+
+        | File              | Location                                                                 |
+        |-------------------|--------------------------------------------------------------------------|
+        | **Player.log**    | **Windows**: `%appdata%/../LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/` <br> **MacOS**: `~/Library/Application Support/RimWorld By Ludeon Studios/` <br> **Linux**: `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/` |
+        | **ModsConfig.xml**| In the `Config` subdirectory of the above paths                         |
+        | **Save Files**    | In the `Saves` subdirectory of the above paths                          |
+
         > **Tip**: Use HugsLib (Ctrl + F12) for easy log uploads!
 
   - type: checkboxes
     id: confirmation
     attributes:
       label: Important Notes
-      description: Please confirm the following before submitting:
+      description: Please confirm the following before submitting
       options:
-        - label: I understand that screenshots alone aren’t enough—logs are required.
+        - label: I understand that screenshots alone aren't enough - logs are recommended
           required: true
-        - label: I’ve tested with other mods disabled to rule out conflicts (if applicable).
+        - label: I've tested with other mods disabled to rule out conflicts (if applicable)
           required: false
-        - label: I’ve provided all required information to the best of my ability.
+        - label: I've provided all required information to the best of my ability
           required: true
 
   - type: markdown
