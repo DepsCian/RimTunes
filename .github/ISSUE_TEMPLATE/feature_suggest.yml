@@ -10,15 +10,6 @@ body:
         # Welcome to Suggest Feature!
         This is the place to share your ideas and suggestions to make **RimTunes** even better. Please fill out this form to help us understand and evaluate your proposal effectively.
 
-  - type: input
-    id: feature-title
-    attributes:
-      label: Feature Title
-      description: Provide a clear and concise title that summarizes your idea
-      placeholder: e.g., Improved Playlist Management
-    validations:
-      required: true
-
   - type: textarea
     id: problem
     attributes:
