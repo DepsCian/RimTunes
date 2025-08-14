@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DepsCian.RimTunes.Common.Settings>Налаштування</DepsCian.RimTunes.Common.Settings>
+  <DepsCian.RimTunes.Common.Confirm>Підтвердити</DepsCian.RimTunes.Common.Confirm>
+  <DepsCian.RimTunes.Common.Create>Створити</DepsCian.RimTunes.Common.Create>
+  <DepsCian.RimTunes.Common.Rename>Перейменувати</DepsCian.RimTunes.Common.Rename>
+  <DepsCian.RimTunes.Common.Add>Додати</DepsCian.RimTunes.Common.Add>
+  <DepsCian.RimTunes.Common.Delete>Видалити</DepsCian.RimTunes.Common.Delete>
+  <DepsCian.RimTunes.Common.Close>Закрити</DepsCian.RimTunes.Common.Close>
+  <DepsCian.RimTunes.Common.Search>Пошук</DepsCian.RimTunes.Common.Search>
+  <DepsCian.RimTunes.Common.Play>Відтворити</DepsCian.RimTunes.Common.Play>
+  <DepsCian.RimTunes.Common.Refresh>Оновити</DepsCian.RimTunes.Common.Refresh>
+  <DepsCian.RimTunes.Common.URL>Посилання</DepsCian.RimTunes.Common.URL>
+  <DepsCian.RimTunes.Common.Error>Помилка</DepsCian.RimTunes.Common.Error>
+  <DepsCian.RimTunes.Common.AddMusic>Додати музику</DepsCian.RimTunes.Common.AddMusic>
+  <DepsCian.RimTunes.Common.Pause>Пауза</DepsCian.RimTunes.Common.Pause>
+  <DepsCian.RimTunes.Settings.Tab.Game>Гра</DepsCian.RimTunes.Settings.Tab.Game>
+  <DepsCian.RimTunes.Settings.Tab.Hotkeys>Гарячі клавіші</DepsCian.RimTunes.Settings.Tab.Hotkeys>
+  <DepsCian.RimTunes.Settings.Tab.Player>Програвач</DepsCian.RimTunes.Settings.Tab.Player>
+  <DepsCian.RimTunes.Settings.Tab.Overlay>Інтерфейс</DepsCian.RimTunes.Settings.Tab.Overlay>
+  <DepsCian.RimTunes.Settings.Tab.Info>Інформація</DepsCian.RimTunes.Settings.Tab.Info>
+  <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>Починати пісню при завантаженні</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
+  <DepsCian.RimTunes.Settings.Game.RememberLastSong>Запам'ятовувати останню пісню</DepsCian.RimTunes.Settings.Game.RememberLastSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>Відкрити інтерфейс</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+  <DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>Сховати інтерфейс</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+  <DepsCian.RimTunes.Settings.Hotkeys.NextSong>Наступна пісня</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>Попередня пісня</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.Pause>Відтворити/Пауза</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+  <DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>Увага! RimTunes не перевіряє гарячі клавіші на конфлікти з RimWorld</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>Показувати кількість пісень у списку відтворення</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
+  <DepsCian.RimTunes.Settings.Player.Autoplay>Автовідтворення</DepsCian.RimTunes.Settings.Player.Autoplay>
+  <DepsCian.RimTunes.Settings.Overlay.Scale>Масштаб інтерфейсу</DepsCian.RimTunes.Settings.Overlay.Scale>
+  <DepsCian.RimTunes.Settings.Overlay.LockPosition>Зафіксувати позицію</DepsCian.RimTunes.Settings.Overlay.LockPosition>
+  <DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>Показувати панель перемотування</DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Background>Колір фону</DepsCian.RimTunes.Settings.Overlay.Colors.Background>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Text>Колір тексту</DepsCian.RimTunes.Settings.Overlay.Colors.Text>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>Колір панелі перемотування</DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Button>Колір кнопок</DepsCian.RimTunes.Settings.Overlay.Colors.Button>
+  <DepsCian.RimTunes.Settings.Info.Version>Версія</DepsCian.RimTunes.Settings.Info.Version>
+  <DepsCian.RimTunes.Settings.Info.Description>RimTunes - Розширене керування музикою для RimWorld
+		Автор: Сергій Мельничук (DepsCian)
+		Базується на форку Fluffy's Music Manager</DepsCian.RimTunes.Settings.Info.Description>
+  <DepsCian.RimTunes.Settings.Info.ReportIssue>Повідомити про проблему</DepsCian.RimTunes.Settings.Info.ReportIssue>
+  <DepsCian.RimTunes.Settings.Info.SuggestFeature>Запропонувати функцію</DepsCian.RimTunes.Settings.Info.SuggestFeature>
+  <DepsCian.RimTunes.Settings.Info.Reset>Скинути налаштування</DepsCian.RimTunes.Settings.Info.Reset>
+  <DepsCian.RimTunes.Settings.Info.Reset.Confirm>Ви впевнені, що хочете скинути всі налаштування до стандартних?</DepsCian.RimTunes.Settings.Info.Reset.Confirm>
+  <DepsCian.RimTunes.Settings.Info.Reset.Complete>Налаштування скинуто до стандартних</DepsCian.RimTunes.Settings.Info.Reset.Complete>
+  <DepsCian.RimTunes.Settings.Intervals.Peace>Мир</DepsCian.RimTunes.Settings.Intervals.Peace>
+  <DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>Мирні інтервали</DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>
+  <DepsCian.RimTunes.Settings.Intervals.War>Війна</DepsCian.RimTunes.Settings.Intervals.War>
+  <DepsCian.RimTunes.Settings.Intervals.WarTooltip>Воєнні інтервали</DepsCian.RimTunes.Settings.Intervals.WarTooltip>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace>Інтервал між піснями (мир)</DepsCian.RimTunes.Settings.SongIntervalPeace>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>Інтервал між піснями в мирний час</DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>
+  <DepsCian.RimTunes.Settings.SongIntervalWar>Інтервал між піснями (війна)</DepsCian.RimTunes.Settings.SongIntervalWar>
+  <DepsCian.RimTunes.Settings.SongIntervalWar.Tip>Інтервал між піснями під час війни</DepsCian.RimTunes.Settings.SongIntervalWar.Tip>
+  <DepsCian.RimTunes.AddMusic.Tabs.Library>Музична бібліотека</DepsCian.RimTunes.AddMusic.Tabs.Library>
+  <DepsCian.RimTunes.AddMusic.Tabs.Online>Онлайн</DepsCian.RimTunes.AddMusic.Tabs.Online>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local>Локальні файли</DepsCian.RimTunes.AddMusic.Tabs.Local>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local.Back>Назад</DepsCian.RimTunes.AddMusic.Tabs.Local.Back>
+  <DepsCian.RimTunes.AddMusic.AddSongs>Додати {count} {count:пісню|пісень}</DepsCian.RimTunes.AddMusic.AddSongs>
+  <DepsCian.RimTunes.Songs.Columns.Name>Назва</DepsCian.RimTunes.Songs.Columns.Name>
+  <DepsCian.RimTunes.Songs.Columns.Duration>Тривалість</DepsCian.RimTunes.Songs.Columns.Duration>
+  <DepsCian.RimTunes.Songs.Columns.Source>Джерело</DepsCian.RimTunes.Songs.Columns.Source>
+  <DepsCian.RimTunes.Songs.Delete>Видалити пісню</DepsCian.RimTunes.Songs.Delete>
+  <DepsCian.RimTunes.Songs.Delete.Confirm>Ви впевнені, що хочете видалити цю пісню?</DepsCian.RimTunes.Songs.Delete.Confirm>
+  <DepsCian.RimTunes.Songs.Delete.Complete>Пісню видалено</DepsCian.RimTunes.Songs.Delete.Complete>
+  <DepsCian.RimTunes.Songs.Rename>Перейменувати пісню</DepsCian.RimTunes.Songs.Rename>
+  <DepsCian.RimTunes.Songs.Select>Вибрати</DepsCian.RimTunes.Songs.Select>
+  <DepsCian.RimTunes.Songs.Deselect>Зняти вибір</DepsCian.RimTunes.Songs.Deselect>
+  <DepsCian.RimTunes.Songs.CopySelected>Копіювати вибране</DepsCian.RimTunes.Songs.CopySelected>
+  <DepsCian.RimTunes.Songs.PasteFromClipboard>Вставити з буфера обміну</DepsCian.RimTunes.Songs.PasteFromClipboard>
+  <DepsCian.RimTunes.Songs.CopiedToClipboard>Скопійовано до буфера обміну</DepsCian.RimTunes.Songs.CopiedToClipboard>
+  <DepsCian.RimTunes.Songs.GoToModPlaylist>Перейти до списку відтворення джерела</DepsCian.RimTunes.Songs.GoToModPlaylist>
+  <DepsCian.RimTunes.Search.NoSongsFound>Пісень не знайдено</DepsCian.RimTunes.Search.NoSongsFound>
+  <DepsCian.RimTunes.Search.NoSongsMatch>Немає пісень, що відповідають цьому запиту</DepsCian.RimTunes.Search.NoSongsMatch>
+  <DepsCian.RimTunes.Playlists.Library>Моя музична бібліотека</DepsCian.RimTunes.Playlists.Library>
+  <DepsCian.RimTunes.Playlists.Playlists>Списки відтворення</DepsCian.RimTunes.Playlists.Playlists>
+  <DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>Новий список відтворення</DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>Перейменувати список відтворення</DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>Додати до списку відтворення</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>Пісню додано до списку відтворення</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>Видалити зі списку відтворення</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>Пісню видалено зі списку відтворення</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.Messages.PlaylistExist>Список відтворення з такою назвою вже існує</DepsCian.RimTunes.Playlists.Messages.PlaylistExist>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty>Список відтворення порожній</DepsCian.RimTunes.Playlists.PlaylistEmpty>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>Додайте пісні до списку відтворення</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>Перемістити вгору</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>Перемістити вниз</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+  <DepsCian.RimTunes.Playlists.Merge>Об'єднати</DepsCian.RimTunes.Playlists.Merge>
+  <DepsCian.RimTunes.Playlists.Merge.Confirmation>Ви впевнені, що хочете об'єднати списки відтворення?</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+  <DepsCian.RimTunes.Playlists.Merge.Complete>Списки відтворення об'єднано</DepsCian.RimTunes.Playlists.Merge.Complete>
+  <DepsCian.RimTunes.Playlists.ChangeIcon>Змінити іконку</DepsCian.RimTunes.Playlists.ChangeIcon>
+  <DepsCian.RimTunes.Columns.Name.Label>Назва</DepsCian.RimTunes.Columns.Name.Label>
+  <DepsCian.RimTunes.Columns.Name.Tooltip>Назва пісні</DepsCian.RimTunes.Columns.Name.Tooltip>
+  <DepsCian.RimTunes.Columns.Length.Label>Тривалість</DepsCian.RimTunes.Columns.Length.Label>
+  <DepsCian.RimTunes.Columns.Length.Tooltip>Тривалість пісні</DepsCian.RimTunes.Columns.Length.Tooltip>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Label>Час доби</DepsCian.RimTunes.Columns.TimeOfDay.Label>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>Час доби для відтворення</DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>
+  <DepsCian.RimTunes.Columns.Tense.Label>Статус</DepsCian.RimTunes.Columns.Tense.Label>
+  <DepsCian.RimTunes.Columns.Tense.Tooltip>Статус колонії під час відтворення</DepsCian.RimTunes.Columns.Tense.Tooltip>
+  <DepsCian.RimTunes.Columns.Seasons.Label>Пори року</DepsCian.RimTunes.Columns.Seasons.Label>
+  <DepsCian.RimTunes.Columns.Seasons.Tooltip>Пора року для відтворення</DepsCian.RimTunes.Columns.Seasons.Tooltip>
+  <DepsCian.RimTunes.Columns.Filtered>Відфільтровано</DepsCian.RimTunes.Columns.Filtered>
+  <DepsCian.RimTunes.Columns.Sorted>Відсортовано</DepsCian.RimTunes.Columns.Sorted>
+  <DepsCian.RimTunes.States.War>Війна</DepsCian.RimTunes.States.War>
+  <DepsCian.RimTunes.States.Peace>Мир</DepsCian.RimTunes.States.Peace>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>XML скопійовано</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+  <DepsCian.RimTunes.Playlists.Dialogs.CopyXml>Копіювати XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>Експортувати список відтворення</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>Імпортувати список відтворення</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteXml>Вставити XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>Вставити з буфера обміну</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>Прогрес імпорту</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>Прогрес експорту</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSong>Локальна пісня</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>Віддалена пісня</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.Uploading>Завантаження</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloading>Завантаження</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Processing>Обробка</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+  <DepsCian.RimTunes.Playlists.Dialogs.Queued>У черзі</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+  <DepsCian.RimTunes.Playlists.Dialogs.Completed>Завершено</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+  <DepsCian.RimTunes.Playlists.Dialogs.Failed>Не вдалося</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+  <DepsCian.RimTunes.Playlists.Dialogs.RetryImport>Повторити імпорт</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>Панель модів</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+  <DepsCian.RimTunes.Playlists.Dialogs.StartImport>Почати імпорт</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>Об'єднати список відтворення</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>Замінити список відтворення</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.Cancel>Скасувати</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>Немає підключення до Інтернету</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+  <DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>Виберіть хоча б одну пісню</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>Помилка розбору XML</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportError>Помилка імпорту</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportError>Помилка експорту</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>Прогрес завантаження</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>Помилки завантаження</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>В процесі</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>Загальний прогрес</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloaded>Завантажено</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+  <DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>Список відтворення імпортовано</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>Немає пісень для імпорту</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>Доступні пісні</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>Пісні, які можна імпортувати</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>Віддалені пісні</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>Пісні, які потрібно завантажити</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>Недоступні пісні</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>Пісні, для яких потрібні відсутні моди</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>Прогрес попереднього перегляду модів</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Checking>Перевірка</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+  <DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>Пісню не знайдено</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>Віддалена пісня не має URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>Не вдалося імпортувати локальну пісню</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>Не вдалося імпортувати віддалену пісню</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModInactive>Мод неактивний</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>Мод не встановлено</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>Доступно в Майстерні</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>Невідомий мод</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>Неможливо експортувати порожній список відтворення</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML містить порожній список відтворення</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML не може бути порожнім</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>
+  <DepsCian.RimTunes.Settings.Cache.Calculating>Розрахунок...</DepsCian.RimTunes.Settings.Cache.Calculating>
+  <DepsCian.RimTunes.Settings.Cache.Clear>Очистити</DepsCian.RimTunes.Settings.Cache.Clear>
+  <DepsCian.RimTunes.Settings.Cache.ClearConfirm>Ви впевнені, що хочете очистити кеш?</DepsCian.RimTunes.Settings.Cache.ClearConfirm>
+  <DepsCian.RimTunes.Settings.Cache.Cleared>Кеш очищено.</DepsCian.RimTunes.Settings.Cache.Cleared>
+  <DepsCian.RimTunes.Settings.Cache.CurrentSize>Поточний розмір кешу: {size}</DepsCian.RimTunes.Settings.Cache.CurrentSize>
+  <DepsCian.RimTunes.Settings.Cache.ModsTitle>Кеш модів</DepsCian.RimTunes.Settings.Cache.ModsTitle>
+  <DepsCian.RimTunes.Settings.Cache.Open>Папка</DepsCian.RimTunes.Settings.Cache.Open>
+  <DepsCian.RimTunes.Settings.Cache.RemoteTitle>Кеш віддалених пісень</DepsCian.RimTunes.Settings.Cache.RemoteTitle>
+  <DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>Ця функція може вплинути на продуктивність. Використовуйте з обережністю.</DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>Змінюйте гарячі клавіші з обережністю. Ви можете замінити стандартні гарячі клавіші RimWorld на клавіші RimTunes.</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>Обережно!</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>
+  <DepsCian.RimTunes.Settings.Hotkeys.Interface>Інтерфейс</DepsCian.RimTunes.Settings.Hotkeys.Interface>
+  <DepsCian.RimTunes.Settings.Hotkeys.Player>Програвач</DepsCian.RimTunes.Settings.Hotkeys.Player>
+  <DepsCian.RimTunes.Settings.Hotkeys.PressKeys>Натисніть будь-яку клавішу...</DepsCian.RimTunes.Settings.Hotkeys.PressKeys>
+  <DepsCian.RimTunes.Settings.Hotkeys.Reset>Скинути</DepsCian.RimTunes.Settings.Hotkeys.Reset>
+  <DepsCian.RimTunes.Settings.Info.Debug>Налагодження</DepsCian.RimTunes.Settings.Info.Debug>
+  <DepsCian.RimTunes.Settings.Tab.Cache>Кеш</DepsCian.RimTunes.Settings.Tab.Cache>
+  <DepsCian.RimTunes.Settings.Tab.Experimental>Експериментальне</DepsCian.RimTunes.Settings.Tab.Experimental>
+  <DepsCian.RimTunes.Songs.Converting>Конвертація...</DepsCian.RimTunes.Songs.Converting>
+  <DepsCian.RimTunes.Settings.Groups.Appearance>Зовнішній вигляд</DepsCian.RimTunes.Settings.Groups.Appearance>
+  <DepsCian.RimTunes.Settings.Groups.Colors>Кольори</DepsCian.RimTunes.Settings.Groups.Colors>
+  <DepsCian.RimTunes.Settings.Groups.General>Загальні</DepsCian.RimTunes.Settings.Groups.General>
+  <DepsCian.RimTunes.Settings.Groups.Playback>Відтворення</DepsCian.RimTunes.Settings.Groups.Playback>
+  <DepsCian.RimTunes.Settings.Player.Autoplay.Tip>Запускати пісню при вході у збереження</DepsCian.RimTunes.Settings.Player.Autoplay.Tip>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>Показувати кількість пісень у списку відтворення</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>
+  <DepsCian.RimTunes.AllowedSeasons>Дозволені пори року: {0}</DepsCian.RimTunes.AllowedSeasons>
+  <DepsCian.RimTunes.Common.Save>Зберегти</DepsCian.RimTunes.Common.Save>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>Часова мітка для цього діапазону вже існує.</DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>Часовий діапазон: {min} - {max}</DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>За замовчуванням</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>Видалити</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>Заборонити</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>Вимагати</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>
+  <DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>Немає тегів, що відповідають вашому пошуку.</DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>
+  <DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>Клацніть правою кнопкою миші для опцій.</DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>
+  <DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>Пошук...</DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>
+  <DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>Відтворюється між {range}</DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Title>Редагування тегів для: {songName}</DepsCian.RimTunes.Dialogs.TagEditor.Title>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>{label}\n\n{description}</DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>
+  <DepsCian.RimTunes.MusicOverlay.NextSong>Далі: {songName}</DepsCian.RimTunes.MusicOverlay.NextSong>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS>Увімкнути DMS</DepsCian.RimTunes.Settings.Game.EnableDMS>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS.Description>Динамічна музична система автоматично обирає треки залежно від поточної ситуації в грі.</DepsCian.RimTunes.Settings.Game.EnableDMS.Description>
+  <DepsCian.RimTunes.Settings.Game.NoSongSelected>Пісню не вибрано</DepsCian.RimTunes.Settings.Game.NoSongSelected>
+  <DepsCian.RimTunes.Settings.Groups.Fading>Затухання</DepsCian.RimTunes.Settings.Groups.Fading>
+  <DepsCian.RimTunes.Settings.Groups.IdleSilence>Тиша в простої</DepsCian.RimTunes.Settings.Groups.IdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence>Увімкнути тишу в простої</DepsCian.RimTunes.Settings.Player.EnableIdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>Якщо увімкнено, музика буде призупинена після періоду бездіяльності.</DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>
+  <DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>Увімкнути нормалізацію гучності</DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>
+  <DepsCian.RimTunes.Settings.Player.FadeOutDuration>Тривалість затухання</DepsCian.RimTunes.Settings.Player.FadeOutDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>Тривалість тиші в простої</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>Тривалість бездіяльності перед тим, як музика буде призупинена.</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>
+  <DepsCian.RimTunes.Settings.Player.SilenceDuration>Тривалість тиші</DepsCian.RimTunes.Settings.Player.SilenceDuration>
+  <DepsCian.RimTunes.Songs.EditTags>Редагувати теги</DepsCian.RimTunes.Songs.EditTags>
+  <DepsCian.RimTunes.Songs.PastedToPlaylist>Вставлено {count} пісень до {playlist}</DepsCian.RimTunes.Songs.PastedToPlaylist>
+  <DepsCian.RimTunes.Tags.Ambient.Description>Відтворюється в мирних, спокійних ситуаціях.</DepsCian.RimTunes.Tags.Ambient.Description>
+  <DepsCian.RimTunes.Tags.Category.Biome>Біом</DepsCian.RimTunes.Tags.Category.Biome>
+  <DepsCian.RimTunes.Tags.Category.GameCondition>Умова гри</DepsCian.RimTunes.Tags.Category.GameCondition>
+  <DepsCian.RimTunes.Tags.Category.General>Загальне</DepsCian.RimTunes.Tags.Category.General>
+  <DepsCian.RimTunes.Tags.Category.RoyalTitle>Королівський титул</DepsCian.RimTunes.Tags.Category.RoyalTitle>
+  <DepsCian.RimTunes.Tags.Category.Seasons>Пори року</DepsCian.RimTunes.Tags.Category.Seasons>
+  <DepsCian.RimTunes.Tags.Category.Time>Час</DepsCian.RimTunes.Tags.Category.Time>
+  <DepsCian.RimTunes.Tags.Category.Weather>Погода</DepsCian.RimTunes.Tags.Category.Weather>
+  <DepsCian.RimTunes.Tags.Day.Description>Відтворюється вдень.</DepsCian.RimTunes.Tags.Day.Description>
+  <DepsCian.RimTunes.Tags.Night.Description>Відтворюється вночі.</DepsCian.RimTunes.Tags.Night.Description>
+  <DepsCian.RimTunes.Tags.Peaceful.Description>Відтворюється в мирний час.</DepsCian.RimTunes.Tags.Peaceful.Description>
+  <DepsCian.RimTunes.Tags.Season.Description>Відтворюється протягом {season}.</DepsCian.RimTunes.Tags.Season.Description>
+  <DepsCian.RimTunes.Tags.Tense.Description>Відтворюється в напружених ситуаціях, таких як бій.</DepsCian.RimTunes.Tags.Tense.Description>
+  <DepsCian.RimTunes.MusicOverlay.DmsBadge>Стан DMS:</DepsCian.RimTunes.MusicOverlay.DmsBadge>
+  <DepsCian.RimTunes.Settings.Game.DmsPlaylist>Плейлист DMS</DepsCian.RimTunes.Settings.Game.DmsPlaylist>
+  <DepsCian.RimTunes.Songs.Columns.Tags>Теги</DepsCian.RimTunes.Songs.Columns.Tags>
+</LanguageData>

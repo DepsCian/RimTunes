@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DepsCian.RimTunes.Common.Settings>设置</DepsCian.RimTunes.Common.Settings>
+  <DepsCian.RimTunes.Common.Confirm>确认</DepsCian.RimTunes.Common.Confirm>
+  <DepsCian.RimTunes.Common.Create>创建</DepsCian.RimTunes.Common.Create>
+  <DepsCian.RimTunes.Common.Rename>重命名</DepsCian.RimTunes.Common.Rename>
+  <DepsCian.RimTunes.Common.Add>添加</DepsCian.RimTunes.Common.Add>
+  <DepsCian.RimTunes.Common.Delete>删除</DepsCian.RimTunes.Common.Delete>
+  <DepsCian.RimTunes.Common.Close>关闭</DepsCian.RimTunes.Common.Close>
+  <DepsCian.RimTunes.Common.Search>搜索</DepsCian.RimTunes.Common.Search>
+  <DepsCian.RimTunes.Common.Play>播放</DepsCian.RimTunes.Common.Play>
+  <DepsCian.RimTunes.Common.Refresh>刷新</DepsCian.RimTunes.Common.Refresh>
+  <DepsCian.RimTunes.Common.URL>链接</DepsCian.RimTunes.Common.URL>
+  <DepsCian.RimTunes.Common.Error>错误</DepsCian.RimTunes.Common.Error>
+  <DepsCian.RimTunes.Common.AddMusic>添加音乐</DepsCian.RimTunes.Common.AddMusic>
+  <DepsCian.RimTunes.Common.Pause>暂停</DepsCian.RimTunes.Common.Pause>
+  <DepsCian.RimTunes.Settings.Tab.Game>游戏</DepsCian.RimTunes.Settings.Tab.Game>
+  <DepsCian.RimTunes.Settings.Tab.Hotkeys>快捷键</DepsCian.RimTunes.Settings.Tab.Hotkeys>
+  <DepsCian.RimTunes.Settings.Tab.Player>播放器</DepsCian.RimTunes.Settings.Tab.Player>
+  <DepsCian.RimTunes.Settings.Tab.Overlay>悬浮窗</DepsCian.RimTunes.Settings.Tab.Overlay>
+  <DepsCian.RimTunes.Settings.Tab.Info>信息</DepsCian.RimTunes.Settings.Tab.Info>
+  <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>加载时播放歌曲</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
+  <DepsCian.RimTunes.Settings.Game.RememberLastSong>记住上一首歌曲</DepsCian.RimTunes.Settings.Game.RememberLastSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>打开界面</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+  <DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>隐藏悬浮窗</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+  <DepsCian.RimTunes.Settings.Hotkeys.NextSong>下一首</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>上一首</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.Pause>播放/暂停</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+  <DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>警告！RimTunes 不会检查与 RimWorld 的快捷键冲突</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>显示播放列表歌曲数量</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
+  <DepsCian.RimTunes.Settings.Player.Autoplay>自动播放</DepsCian.RimTunes.Settings.Player.Autoplay>
+  <DepsCian.RimTunes.Settings.Overlay.Scale>界面缩放</DepsCian.RimTunes.Settings.Overlay.Scale>
+  <DepsCian.RimTunes.Settings.Overlay.LockPosition>锁定位置</DepsCian.RimTunes.Settings.Overlay.LockPosition>
+  <DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>显示进度条</DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Background>背景颜色</DepsCian.RimTunes.Settings.Overlay.Colors.Background>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Text>文本颜色</DepsCian.RimTunes.Settings.Overlay.Colors.Text>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>进度条颜色</DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Button>按钮颜色</DepsCian.RimTunes.Settings.Overlay.Colors.Button>
+  <DepsCian.RimTunes.Settings.Info.Version>版本</DepsCian.RimTunes.Settings.Info.Version>
+  <DepsCian.RimTunes.Settings.Info.Description>RimTunes - RimWorld 增强型音乐管理
+		作者：Sergiy Melnychuk (DepsCian)
+		基于 Fluffy 的音乐管理器分支</DepsCian.RimTunes.Settings.Info.Description>
+  <DepsCian.RimTunes.Settings.Info.ReportIssue>报告问题</DepsCian.RimTunes.Settings.Info.ReportIssue>
+  <DepsCian.RimTunes.Settings.Info.SuggestFeature>建议功能</DepsCian.RimTunes.Settings.Info.SuggestFeature>
+  <DepsCian.RimTunes.Settings.Info.Reset>重置设置</DepsCian.RimTunes.Settings.Info.Reset>
+  <DepsCian.RimTunes.Settings.Info.Reset.Confirm>您确定要将所有设置重置为默认值吗？</DepsCian.RimTunes.Settings.Info.Reset.Confirm>
+  <DepsCian.RimTunes.Settings.Info.Reset.Complete>设置已重置为默认值</DepsCian.RimTunes.Settings.Info.Reset.Complete>
+  <DepsCian.RimTunes.Settings.Intervals.Peace>和平</DepsCian.RimTunes.Settings.Intervals.Peace>
+  <DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>和平时段</DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>
+  <DepsCian.RimTunes.Settings.Intervals.War>战斗</DepsCian.RimTunes.Settings.Intervals.War>
+  <DepsCian.RimTunes.Settings.Intervals.WarTooltip>战斗时段</DepsCian.RimTunes.Settings.Intervals.WarTooltip>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace>歌曲间隔 (和平)</DepsCian.RimTunes.Settings.SongIntervalPeace>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>和平时期歌曲之间的间隔</DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>
+  <DepsCian.RimTunes.Settings.SongIntervalWar>歌曲间隔 (战斗)</DepsCian.RimTunes.Settings.SongIntervalWar>
+  <DepsCian.RimTunes.Settings.SongIntervalWar.Tip>战斗时期歌曲之间的间隔</DepsCian.RimTunes.Settings.SongIntervalWar.Tip>
+  <DepsCian.RimTunes.AddMusic.Tabs.Library>音乐库</DepsCian.RimTunes.AddMusic.Tabs.Library>
+  <DepsCian.RimTunes.AddMusic.Tabs.Online>在线</DepsCian.RimTunes.AddMusic.Tabs.Online>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local>本地文件</DepsCian.RimTunes.AddMusic.Tabs.Local>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local.Back>返回</DepsCian.RimTunes.AddMusic.Tabs.Local.Back>
+  <DepsCian.RimTunes.AddMusic.AddSongs>添加 {count} 首歌曲</DepsCian.RimTunes.AddMusic.AddSongs>
+  <DepsCian.RimTunes.Songs.Columns.Name>名称</DepsCian.RimTunes.Songs.Columns.Name>
+  <DepsCian.RimTunes.Songs.Columns.Duration>时长</DepsCian.RimTunes.Songs.Columns.Duration>
+  <DepsCian.RimTunes.Songs.Columns.Source>来源</DepsCian.RimTunes.Songs.Columns.Source>
+  <DepsCian.RimTunes.Songs.Delete>删除歌曲</DepsCian.RimTunes.Songs.Delete>
+  <DepsCian.RimTunes.Songs.Delete.Confirm>您确定要删除这首歌曲吗？</DepsCian.RimTunes.Songs.Delete.Confirm>
+  <DepsCian.RimTunes.Songs.Delete.Complete>歌曲已删除</DepsCian.RimTunes.Songs.Delete.Complete>
+  <DepsCian.RimTunes.Songs.Rename>重命名歌曲</DepsCian.RimTunes.Songs.Rename>
+  <DepsCian.RimTunes.Songs.Select>选择</DepsCian.RimTunes.Songs.Select>
+  <DepsCian.RimTunes.Songs.Deselect>取消选择</DepsCian.RimTunes.Songs.Deselect>
+  <DepsCian.RimTunes.Songs.CopySelected>复制所选</DepsCian.RimTunes.Songs.CopySelected>
+  <DepsCian.RimTunes.Songs.PasteFromClipboard>从剪贴板粘贴</DepsCian.RimTunes.Songs.PasteFromClipboard>
+  <DepsCian.RimTunes.Songs.CopiedToClipboard>已复制到剪贴板</DepsCian.RimTunes.Songs.CopiedToClipboard>
+  <DepsCian.RimTunes.Songs.GoToModPlaylist>转到来源播放列表</DepsCian.RimTunes.Songs.GoToModPlaylist>
+  <DepsCian.RimTunes.Search.NoSongsFound>未找到歌曲</DepsCian.RimTunes.Search.NoSongsFound>
+  <DepsCian.RimTunes.Search.NoSongsMatch>没有符合此查询的歌曲</DepsCian.RimTunes.Search.NoSongsMatch>
+  <DepsCian.RimTunes.Playlists.Library>我的音乐库</DepsCian.RimTunes.Playlists.Library>
+  <DepsCian.RimTunes.Playlists.Playlists>播放列表</DepsCian.RimTunes.Playlists.Playlists>
+  <DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>新建播放列表</DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>重命名播放列表</DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>添加到播放列表</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>歌曲已添加到播放列表</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>从播放列表移除</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>歌曲已从播放列表移除</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.Messages.PlaylistExist>播放列表名称已存在</DepsCian.RimTunes.Playlists.Messages.PlaylistExist>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty>播放列表为空</DepsCian.RimTunes.Playlists.PlaylistEmpty>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>向播放列表添加歌曲</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>上移</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>下移</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+  <DepsCian.RimTunes.Playlists.Merge>合并</DepsCian.RimTunes.Playlists.Merge>
+  <DepsCian.RimTunes.Playlists.Merge.Confirmation>您确定要合并播放列表吗？</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+  <DepsCian.RimTunes.Playlists.Merge.Complete>播放列表已合并</DepsCian.RimTunes.Playlists.Merge.Complete>
+  <DepsCian.RimTunes.Playlists.ChangeIcon>更改图标</DepsCian.RimTunes.Playlists.ChangeIcon>
+  <DepsCian.RimTunes.Columns.Name.Label>名称</DepsCian.RimTunes.Columns.Name.Label>
+  <DepsCian.RimTunes.Columns.Name.Tooltip>歌曲名称</DepsCian.RimTunes.Columns.Name.Tooltip>
+  <DepsCian.RimTunes.Columns.Length.Label>时长</DepsCian.RimTunes.Columns.Length.Label>
+  <DepsCian.RimTunes.Columns.Length.Tooltip>歌曲时长</DepsCian.RimTunes.Columns.Length.Tooltip>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Label>一天中的时间</DepsCian.RimTunes.Columns.TimeOfDay.Label>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>播放的一天中的时间</DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>
+  <DepsCian.RimTunes.Columns.Tense.Label>状态</DepsCian.RimTunes.Columns.Tense.Label>
+  <DepsCian.RimTunes.Columns.Tense.Tooltip>播放期间的殖民地状态</DepsCian.RimTunes.Columns.Tense.Tooltip>
+  <DepsCian.RimTunes.Columns.Seasons.Label>季节</DepsCian.RimTunes.Columns.Seasons.Label>
+  <DepsCian.RimTunes.Columns.Seasons.Tooltip>播放的季节</DepsCian.RimTunes.Columns.Seasons.Tooltip>
+  <DepsCian.RimTunes.Columns.Filtered>已筛选</DepsCian.RimTunes.Columns.Filtered>
+  <DepsCian.RimTunes.Columns.Sorted>已排序</DepsCian.RimTunes.Columns.Sorted>
+  <DepsCian.RimTunes.States.War>战斗</DepsCian.RimTunes.States.War>
+  <DepsCian.RimTunes.States.Peace>和平</DepsCian.RimTunes.States.Peace>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>XML 已复制</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+  <DepsCian.RimTunes.Playlists.Dialogs.CopyXml>复制 XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>导出播放列表</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>导入播放列表</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteXml>粘贴 XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>从剪贴板粘贴</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>导入进度</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>导出进度</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSong>本地歌曲</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>远程歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.Uploading>上传中</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloading>下载中</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Processing>处理中</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+  <DepsCian.RimTunes.Playlists.Dialogs.Queued>排队中</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+  <DepsCian.RimTunes.Playlists.Dialogs.Completed>已完成</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+  <DepsCian.RimTunes.Playlists.Dialogs.Failed>失败</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+  <DepsCian.RimTunes.Playlists.Dialogs.RetryImport>重试导入</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>模组面板</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+  <DepsCian.RimTunes.Playlists.Dialogs.StartImport>开始导入</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>合并播放列表</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>替换播放列表</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.Cancel>取消</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>无网络连接</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+  <DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>请至少选择一首歌曲</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>XML 解析错误</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportError>导入错误</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportError>导出错误</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>下载进度</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>下载错误</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>进行中</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>总进度</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloaded>已下载</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+  <DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>播放列表已导入</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>没有可导入的歌曲</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>可用歌曲</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>可以导入的歌曲</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>远程歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>需要下载的歌曲</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>不可用歌曲</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>需要缺失模组的歌曲</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>模组预览进度</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Checking>检查中</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+  <DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>未找到歌曲</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>远程歌曲没有 URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>导入本地歌曲失败</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>导入远程歌曲失败</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModInactive>模组未激活</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>模组未安装</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>创意工坊可用</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>未知模组</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>无法导出空播放列表</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML 包含空播放列表</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML 不能为空</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>
+  <DepsCian.RimTunes.Settings.Cache.Calculating>计算中...</DepsCian.RimTunes.Settings.Cache.Calculating>
+  <DepsCian.RimTunes.Settings.Cache.Clear>清除</DepsCian.RimTunes.Settings.Cache.Clear>
+  <DepsCian.RimTunes.Settings.Cache.ClearConfirm>您确定要清除缓存吗？</DepsCian.RimTunes.Settings.Cache.ClearConfirm>
+  <DepsCian.RimTunes.Settings.Cache.Cleared>缓存已清除。</DepsCian.RimTunes.Settings.Cache.Cleared>
+  <DepsCian.RimTunes.Settings.Cache.CurrentSize>当前缓存大小：{size}</DepsCian.RimTunes.Settings.Cache.CurrentSize>
+  <DepsCian.RimTunes.Settings.Cache.ModsTitle>模组缓存</DepsCian.RimTunes.Settings.Cache.ModsTitle>
+  <DepsCian.RimTunes.Settings.Cache.Open>文件夹</DepsCian.RimTunes.Settings.Cache.Open>
+  <DepsCian.RimTunes.Settings.Cache.RemoteTitle>远程歌曲缓存</DepsCian.RimTunes.Settings.Cache.RemoteTitle>
+  <DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>此功能可能会影响性能。请谨慎使用。</DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>请谨慎更改快捷键。因为您可能会用 RimTunes 的快捷键替换 RimWorld 的标准快捷键。</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>注意！</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>
+  <DepsCian.RimTunes.Settings.Hotkeys.Interface>界面</DepsCian.RimTunes.Settings.Hotkeys.Interface>
+  <DepsCian.RimTunes.Settings.Hotkeys.Player>播放器</DepsCian.RimTunes.Settings.Hotkeys.Player>
+  <DepsCian.RimTunes.Settings.Hotkeys.PressKeys>请按任意键...</DepsCian.RimTunes.Settings.Hotkeys.PressKeys>
+  <DepsCian.RimTunes.Settings.Hotkeys.Reset>重置</DepsCian.RimTunes.Settings.Hotkeys.Reset>
+  <DepsCian.RimTunes.Settings.Info.Debug>调试</DepsCian.RimTunes.Settings.Info.Debug>
+  <DepsCian.RimTunes.Settings.Tab.Cache>缓存</DepsCian.RimTunes.Settings.Tab.Cache>
+  <DepsCian.RimTunes.Settings.Tab.Experimental>实验性</DepsCian.RimTunes.Settings.Tab.Experimental>
+  <DepsCian.RimTunes.Songs.Converting>转换中...</DepsCian.RimTunes.Songs.Converting>
+  <DepsCian.RimTunes.Settings.Groups.Appearance>外观</DepsCian.RimTunes.Settings.Groups.Appearance>
+  <DepsCian.RimTunes.Settings.Groups.Colors>颜色</DepsCian.RimTunes.Settings.Groups.Colors>
+  <DepsCian.RimTunes.Settings.Groups.General>常规</DepsCian.RimTunes.Settings.Groups.General>
+  <DepsCian.RimTunes.Settings.Groups.Playback>播放</DepsCian.RimTunes.Settings.Groups.Playback>
+  <DepsCian.RimTunes.Settings.Player.Autoplay.Tip>进入存档时播放歌曲</DepsCian.RimTunes.Settings.Player.Autoplay.Tip>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>显示播放列表中的歌曲数量</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>
+  <DepsCian.RimTunes.AllowedSeasons>允许的季节: {0}</DepsCian.RimTunes.AllowedSeasons>
+  <DepsCian.RimTunes.Common.Save>保存</DepsCian.RimTunes.Common.Save>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>此精确时间范围的时间标签已存在。</DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>时间范围：{min} - {max}</DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>默认</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>删除</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>禁止</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>要求</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>
+  <DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>没有符合您搜索的标签。</DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>
+  <DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>右键单击查看选项。</DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>
+  <DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>搜索...</DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>
+  <DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>在 {range} 之间播放</DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Title>正在编辑标签：{songName}</DepsCian.RimTunes.Dialogs.TagEditor.Title>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>{label}\n\n{description}</DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>
+  <DepsCian.RimTunes.MusicOverlay.NextSong>下一首：{songName}</DepsCian.RimTunes.MusicOverlay.NextSong>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS>启用 DMS</DepsCian.RimTunes.Settings.Game.EnableDMS>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS.Description>动态音乐系统会根据当前游戏内情况自动选择曲目。</DepsCian.RimTunes.Settings.Game.EnableDMS.Description>
+  <DepsCian.RimTunes.Settings.Game.NoSongSelected>未选择歌曲</DepsCian.RimTunes.Settings.Game.NoSongSelected>
+  <DepsCian.RimTunes.Settings.Groups.Fading>淡入淡出</DepsCian.RimTunes.Settings.Groups.Fading>
+  <DepsCian.RimTunes.Settings.Groups.IdleSilence>闲置静音</DepsCian.RimTunes.Settings.Groups.IdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence>启用闲置静音</DepsCian.RimTunes.Settings.Player.EnableIdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>启用后，音乐将在一段时间无活动后暂停。</DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>
+  <DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>启用音量标准化</DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>
+  <DepsCian.RimTunes.Settings.Player.FadeOutDuration>淡出时长</DepsCian.RimTunes.Settings.Player.FadeOutDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>闲置静音时长</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>音乐暂停前无活动的持续时间。</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>
+  <DepsCian.RimTunes.Settings.Player.SilenceDuration>静音时长</DepsCian.RimTunes.Settings.Player.SilenceDuration>
+  <DepsCian.RimTunes.Songs.EditTags>编辑标签</DepsCian.RimTunes.Songs.EditTags>
+  <DepsCian.RimTunes.Songs.PastedToPlaylist>已将 {count} 首歌曲粘贴到 {playlist}</DepsCian.RimTunes.Songs.PastedToPlaylist>
+  <DepsCian.RimTunes.Tags.Ambient.Description>在非战斗、环境氛围下播放。</DepsCian.RimTunes.Tags.Ambient.Description>
+  <DepsCian.RimTunes.Tags.Category.Biome>生物群系</DepsCian.RimTunes.Tags.Category.Biome>
+  <DepsCian.RimTunes.Tags.Category.GameCondition>游戏状况</DepsCian.RimTunes.Tags.Category.GameCondition>
+  <DepsCian.RimTunes.Tags.Category.General>常规</DepsCian.RimTunes.Tags.Category.General>
+  <DepsCian.RimTunes.Tags.Category.RoyalTitle>皇家头衔</DepsCian.RimTunes.Tags.Category.RoyalTitle>
+  <DepsCian.RimTunes.Tags.Category.Seasons>季节</DepsCian.RimTunes.Tags.Category.Seasons>
+  <DepsCian.RimTunes.Tags.Category.Time>时间</DepsCian.RimTunes.Tags.Category.Time>
+  <DepsCian.RimTunes.Tags.Category.Weather>天气</DepsCian.RimTunes.Tags.Category.Weather>
+  <DepsCian.RimTunes.Tags.Day.Description>在白天播放。</DepsCian.RimTunes.Tags.Day.Description>
+  <DepsCian.RimTunes.Tags.Night.Description>在夜晚播放。</DepsCian.RimTunes.Tags.Night.Description>
+  <DepsCian.RimTunes.Tags.Peaceful.Description>在和平时期播放。</DepsCian.RimTunes.Tags.Peaceful.Description>
+  <DepsCian.RimTunes.Tags.Season.Description>在{season}播放。</DepsCian.RimTunes.Tags.Season.Description>
+  <DepsCian.RimTunes.Tags.Tense.Description>在战斗等紧张情况下播放。</DepsCian.RimTunes.Tags.Tense.Description>
+  <DepsCian.RimTunes.MusicOverlay.DmsBadge>DMS 状态：</DepsCian.RimTunes.MusicOverlay.DmsBadge>
+  <DepsCian.RimTunes.Settings.Game.DmsPlaylist>DMS 播放列表</DepsCian.RimTunes.Settings.Game.DmsPlaylist>
+  <DepsCian.RimTunes.Songs.Columns.Tags>标签</DepsCian.RimTunes.Songs.Columns.Tags>
+</LanguageData>

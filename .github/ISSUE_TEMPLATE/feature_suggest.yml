@@ -1,0 +1,66 @@
+name: Suggest Feature
+description: Suggest a new feature or improvement for RimTunes.
+title: "<Short description of your idea>"
+labels: ["feature"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Welcome to Suggest Feature!
+        This is the place to share your ideas and suggestions to make **RimTunes** even better. Please fill out this form to help us understand and evaluate your proposal effectively.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: The Problem You Want to Solve
+      description: Briefly explain the issue or limitation you’ve encountered that inspires this suggestion
+      placeholder: e.g., Currently, songs must be removed from playlists one by one, which is time-consuming for larger playlists.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Your Proposed Solution
+      description: Describe your idea in detail. Include specifics on how it would work and why it would benefit users
+      placeholder: e.g., Introduce an option to select multiple songs for removal, accessible via a context menu or hotkeys.
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting-details
+    attributes:
+      label: Supporting Details (Optional)
+      description: Provide examples, screenshots, or references to similar features in other tools to clarify your proposal
+      placeholder: e.g., This functionality exists in application XYZ, where it’s implemented seamlessly and improves workflow significantly.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Example Submission
+        Here’s how a well-structured Suggest Feature might look:
+
+        | Field               | Example Content                                                                 |
+        |---------------------|---------------------------------------------------------------------------------|
+        | **Title**           | Add Bulk Song Removal from Playlists                                           |
+        | **Problem**         | Currently, songs must be removed from playlists one by one, which is time-consuming for larger playlists. |
+        | **Proposed Solution** | Introduce an option to select multiple songs for removal, accessible via a context menu or hotkeys. |
+        | **Supporting Details** | This functionality exists in application XYZ, where it’s implemented seamlessly and improves workflow significantly. |
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 💡 Tips for Effective Suggestions
+        - **Be brief but thorough** — a well-structured suggestion is easier to evaluate.
+        - **Avoid duplicates** — check existing issues to see if your idea has already been proposed.
+        - **Think big** — even ambitious ideas are worth sharing. Every improvement starts with a concept.
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **Thank you for contributing your ideas!**  
+        Your feedback plays a key role in shaping the future of RimTunes. We look forward to hearing your thoughts! ❤️

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DepsCian.RimTunes.Common.Settings>Настройки</DepsCian.RimTunes.Common.Settings>
+  <DepsCian.RimTunes.Common.Confirm>Подтвердить</DepsCian.RimTunes.Common.Confirm>
+  <DepsCian.RimTunes.Common.Create>Создать</DepsCian.RimTunes.Common.Create>
+  <DepsCian.RimTunes.Common.Rename>Переименовать</DepsCian.RimTunes.Common.Rename>
+  <DepsCian.RimTunes.Common.Add>Добавить</DepsCian.RimTunes.Common.Add>
+  <DepsCian.RimTunes.Common.Delete>Удалить</DepsCian.RimTunes.Common.Delete>
+  <DepsCian.RimTunes.Common.Close>Закрыть</DepsCian.RimTunes.Common.Close>
+  <DepsCian.RimTunes.Common.Search>Поиск</DepsCian.RimTunes.Common.Search>
+  <DepsCian.RimTunes.Common.Play>Воспроизвести</DepsCian.RimTunes.Common.Play>
+  <DepsCian.RimTunes.Common.Refresh>Обновить</DepsCian.RimTunes.Common.Refresh>
+  <DepsCian.RimTunes.Common.URL>Ссылка</DepsCian.RimTunes.Common.URL>
+  <DepsCian.RimTunes.Common.Error>Ошибка</DepsCian.RimTunes.Common.Error>
+  <DepsCian.RimTunes.Common.AddMusic>Добавить музыку</DepsCian.RimTunes.Common.AddMusic>
+  <DepsCian.RimTunes.Common.Pause>Пауза</DepsCian.RimTunes.Common.Pause>
+  <DepsCian.RimTunes.Settings.Tab.Game>Игра</DepsCian.RimTunes.Settings.Tab.Game>
+  <DepsCian.RimTunes.Settings.Tab.Hotkeys>Горячие клавиши</DepsCian.RimTunes.Settings.Tab.Hotkeys>
+  <DepsCian.RimTunes.Settings.Tab.Player>Плеер</DepsCian.RimTunes.Settings.Tab.Player>
+  <DepsCian.RimTunes.Settings.Tab.Overlay>Оверлей</DepsCian.RimTunes.Settings.Tab.Overlay>
+  <DepsCian.RimTunes.Settings.Tab.Info>Информация</DepsCian.RimTunes.Settings.Tab.Info>
+  <DepsCian.RimTunes.Settings.Game.StartSongOnLoad>Начинать песню при загрузке</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
+  <DepsCian.RimTunes.Settings.Game.RememberLastSong>Запоминать последнюю песню</DepsCian.RimTunes.Settings.Game.RememberLastSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>Открыть интерфейс</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+  <DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>Скрыть оверлей</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+  <DepsCian.RimTunes.Settings.Hotkeys.NextSong>Следующая песня</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>Предыдущая песня</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+  <DepsCian.RimTunes.Settings.Hotkeys.Pause>Воспроизведение/пауза</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+  <DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>Внимание! RimTunes не проверяет горячие клавиши на конфликты с RimWorld</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>Показывать количество песен в плейлисте</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
+  <DepsCian.RimTunes.Settings.Player.Autoplay>Автовоспроизведение</DepsCian.RimTunes.Settings.Player.Autoplay>
+  <DepsCian.RimTunes.Settings.Overlay.Scale>Масштаб интерфейса</DepsCian.RimTunes.Settings.Overlay.Scale>
+  <DepsCian.RimTunes.Settings.Overlay.LockPosition>Заблокировать позицию</DepsCian.RimTunes.Settings.Overlay.LockPosition>
+  <DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>Показывать ползунок перемотки</DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Background>Цвет фона</DepsCian.RimTunes.Settings.Overlay.Colors.Background>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Text>Цвет текста</DepsCian.RimTunes.Settings.Overlay.Colors.Text>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>Цвет ползунка перемотки</DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>
+  <DepsCian.RimTunes.Settings.Overlay.Colors.Button>Цвет кнопок</DepsCian.RimTunes.Settings.Overlay.Colors.Button>
+  <DepsCian.RimTunes.Settings.Info.Version>Версия</DepsCian.RimTunes.Settings.Info.Version>
+  <DepsCian.RimTunes.Settings.Info.Description>RimTunes - Расширенное управление музыкой для RimWorld
+		Автор: Сергей Мельничук (DepsCian)
+		Основано на форке Music Manager от Fluffy</DepsCian.RimTunes.Settings.Info.Description>
+  <DepsCian.RimTunes.Settings.Info.ReportIssue>Сообщить о проблеме</DepsCian.RimTunes.Settings.Info.ReportIssue>
+  <DepsCian.RimTunes.Settings.Info.SuggestFeature>Предложить функцию</DepsCian.RimTunes.Settings.Info.SuggestFeature>
+  <DepsCian.RimTunes.Settings.Info.Reset>Сбросить настройки</DepsCian.RimTunes.Settings.Info.Reset>
+  <DepsCian.RimTunes.Settings.Info.Reset.Confirm>Вы уверены, что хотите сбросить все настройки до значений по умолчанию?</DepsCian.RimTunes.Settings.Info.Reset.Confirm>
+  <DepsCian.RimTunes.Settings.Info.Reset.Complete>Настройки были сброшены до значений по умолчанию</DepsCian.RimTunes.Settings.Info.Reset.Complete>
+  <DepsCian.RimTunes.Settings.Intervals.Peace>Мирное время</DepsCian.RimTunes.Settings.Intervals.Peace>
+  <DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>Интервалы в мирное время</DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>
+  <DepsCian.RimTunes.Settings.Intervals.War>Военное время</DepsCian.RimTunes.Settings.Intervals.War>
+  <DepsCian.RimTunes.Settings.Intervals.WarTooltip>Интервалы в военное время</DepsCian.RimTunes.Settings.Intervals.WarTooltip>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace>Интервал между песнями (мир)</DepsCian.RimTunes.Settings.SongIntervalPeace>
+  <DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>Интервал между песнями в мирное время</DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>
+  <DepsCian.RimTunes.Settings.SongIntervalWar>Интервал между песнями (война)</DepsCian.RimTunes.Settings.SongIntervalWar>
+  <DepsCian.RimTunes.Settings.SongIntervalWar.Tip>Интервал между песнями во время боя</DepsCian.RimTunes.Settings.SongIntervalWar.Tip>
+  <DepsCian.RimTunes.AddMusic.Tabs.Library>Музыкальная библиотека</DepsCian.RimTunes.AddMusic.Tabs.Library>
+  <DepsCian.RimTunes.AddMusic.Tabs.Online>Онлайн</DepsCian.RimTunes.AddMusic.Tabs.Online>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local>Локальные файлы</DepsCian.RimTunes.AddMusic.Tabs.Local>
+  <DepsCian.RimTunes.AddMusic.Tabs.Local.Back>Назад</DepsCian.RimTunes.AddMusic.Tabs.Local.Back>
+  <DepsCian.RimTunes.AddMusic.AddSongs>Добавить {count} {count:песню|песен}</DepsCian.RimTunes.AddMusic.AddSongs>
+  <DepsCian.RimTunes.Songs.Columns.Name>Название</DepsCian.RimTunes.Songs.Columns.Name>
+  <DepsCian.RimTunes.Songs.Columns.Duration>Длительность</DepsCian.RimTunes.Songs.Columns.Duration>
+  <DepsCian.RimTunes.Songs.Columns.Source>Источник</DepsCian.RimTunes.Songs.Columns.Source>
+  <DepsCian.RimTunes.Songs.Delete>Удалить песню</DepsCian.RimTunes.Songs.Delete>
+  <DepsCian.RimTunes.Songs.Delete.Confirm>Вы уверены, что хотите удалить эту песню?</DepsCian.RimTunes.Songs.Delete.Confirm>
+  <DepsCian.RimTunes.Songs.Delete.Complete>Песня удалена</DepsCian.RimTunes.Songs.Delete.Complete>
+  <DepsCian.RimTunes.Songs.Rename>Переименовать песню</DepsCian.RimTunes.Songs.Rename>
+  <DepsCian.RimTunes.Songs.Select>Выбрать</DepsCian.RimTunes.Songs.Select>
+  <DepsCian.RimTunes.Songs.Deselect>Снять выбор</DepsCian.RimTunes.Songs.Deselect>
+  <DepsCian.RimTunes.Songs.CopySelected>Копировать выбранное</DepsCian.RimTunes.Songs.CopySelected>
+  <DepsCian.RimTunes.Songs.PasteFromClipboard>Вставить из буфера обмена</DepsCian.RimTunes.Songs.PasteFromClipboard>
+  <DepsCian.RimTunes.Songs.CopiedToClipboard>Скопировано в буфер обмена</DepsCian.RimTunes.Songs.CopiedToClipboard>
+  <DepsCian.RimTunes.Songs.GoToModPlaylist>Перейти к исходному плейлисту</DepsCian.RimTunes.Songs.GoToModPlaylist>
+  <DepsCian.RimTunes.Search.NoSongsFound>Песни не найдены</DepsCian.RimTunes.Search.NoSongsFound>
+  <DepsCian.RimTunes.Search.NoSongsMatch>Нет песен, соответствующих этому запросу</DepsCian.RimTunes.Search.NoSongsMatch>
+  <DepsCian.RimTunes.Playlists.Library>Моя музыкальная библиотека</DepsCian.RimTunes.Playlists.Library>
+  <DepsCian.RimTunes.Playlists.Playlists>Плейлисты</DepsCian.RimTunes.Playlists.Playlists>
+  <DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>Новый плейлист</DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>Переименовать плейлист</DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>Добавить в плейлист</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>Песня добавлена в плейлист</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>Удалить из плейлиста</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>
+  <DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>Песня удалена из плейлиста</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>
+  <DepsCian.RimTunes.Playlists.Messages.PlaylistExist>Плейлист с таким названием уже существует</DepsCian.RimTunes.Playlists.Messages.PlaylistExist>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty>Плейлист пуст</DepsCian.RimTunes.Playlists.PlaylistEmpty>
+  <DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>Добавьте песни в плейлист</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>Переместить вверх</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
+  <DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>Переместить вниз</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+  <DepsCian.RimTunes.Playlists.Merge>Объединить</DepsCian.RimTunes.Playlists.Merge>
+  <DepsCian.RimTunes.Playlists.Merge.Confirmation>Вы уверены, что хотите объединить плейлисты?</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+  <DepsCian.RimTunes.Playlists.Merge.Complete>Плейлисты объединены</DepsCian.RimTunes.Playlists.Merge.Complete>
+  <DepsCian.RimTunes.Playlists.ChangeIcon>Сменить значок</DepsCian.RimTunes.Playlists.ChangeIcon>
+  <DepsCian.RimTunes.Columns.Name.Label>Название</DepsCian.RimTunes.Columns.Name.Label>
+  <DepsCian.RimTunes.Columns.Name.Tooltip>Название песни</DepsCian.RimTunes.Columns.Name.Tooltip>
+  <DepsCian.RimTunes.Columns.Length.Label>Длительность</DepsCian.RimTunes.Columns.Length.Label>
+  <DepsCian.RimTunes.Columns.Length.Tooltip>Длительность песни</DepsCian.RimTunes.Columns.Length.Tooltip>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Label>Время суток</DepsCian.RimTunes.Columns.TimeOfDay.Label>
+  <DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>Время суток для воспроизведения</DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>
+  <DepsCian.RimTunes.Columns.Tense.Label>Статус</DepsCian.RimTunes.Columns.Tense.Label>
+  <DepsCian.RimTunes.Columns.Tense.Tooltip>Статус колонии во время воспроизведения</DepsCian.RimTunes.Columns.Tense.Tooltip>
+  <DepsCian.RimTunes.Columns.Seasons.Label>Времена года</DepsCian.RimTunes.Columns.Seasons.Label>
+  <DepsCian.RimTunes.Columns.Seasons.Tooltip>Время года для воспроизведения</DepsCian.RimTunes.Columns.Seasons.Tooltip>
+  <DepsCian.RimTunes.Columns.Filtered>Отфильтровано</DepsCian.RimTunes.Columns.Filtered>
+  <DepsCian.RimTunes.Columns.Sorted>Отсортировано</DepsCian.RimTunes.Columns.Sorted>
+  <DepsCian.RimTunes.States.War>Бой</DepsCian.RimTunes.States.War>
+  <DepsCian.RimTunes.States.Peace>Мир</DepsCian.RimTunes.States.Peace>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>XML скопирован</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+  <DepsCian.RimTunes.Playlists.Dialogs.CopyXml>Копировать XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>Экспорт плейлиста</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>Импорт плейлиста</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteXml>Вставить XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>Вставить из буфера обмена</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>Прогресс импорта</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>Прогресс экспорта</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSong>Локальная песня</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>Загруженная песня</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.Uploading>Загрузка на сервер</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloading>Загрузка</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+  <DepsCian.RimTunes.Playlists.Dialogs.Processing>Обработка</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+  <DepsCian.RimTunes.Playlists.Dialogs.Queued>В очереди</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+  <DepsCian.RimTunes.Playlists.Dialogs.Completed>Завершено</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+  <DepsCian.RimTunes.Playlists.Dialogs.Failed>Ошибка</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+  <DepsCian.RimTunes.Playlists.Dialogs.RetryImport>Повторить импорт</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>Панель модов</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+  <DepsCian.RimTunes.Playlists.Dialogs.StartImport>Начать импорт</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>Объединить плейлист</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>Заменить плейлист</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.Cancel>Отмена</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>Нет подключения к интернету</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+  <DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>Выберите хотя бы одну песню</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+  <DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>Ошибка разбора XML</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ImportError>Ошибка импорта</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ExportError>Ошибка экспорта</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>Прогресс загрузки</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>Ошибки загрузки</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+  <DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>В процессе</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>Общий прогресс</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Downloaded>Загружено</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+  <DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>Плейлист импортирован</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+  <DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>Нет песен для импорта</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>Доступные песни</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>Песни, которые можно импортировать</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>Загруженные песни</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>Песни, которые необходимо загрузить</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>Недоступные песни</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>Песни, для которых требуются отсутствующие моды</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>Прогресс предпросмотра модов</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+  <DepsCian.RimTunes.Playlists.Dialogs.Checking>Проверка</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+  <DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>Песня не найдена</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>У удалённой песни нет URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+  <DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>Не удалось импортировать локальную песню</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>Не удалось импортировать удалённую песню</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModInactive>Мод неактивен</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>Мод не установлен</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+  <DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>Доступен в Мастерской</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+  <DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>Неизвестный мод</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>Невозможно экспортировать пустой плейлист</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML содержит пустой плейлист</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+  <DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML не может быть пустым</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>
+  <DepsCian.RimTunes.Settings.Cache.Calculating>Подсчёт...</DepsCian.RimTunes.Settings.Cache.Calculating>
+  <DepsCian.RimTunes.Settings.Cache.Clear>Очистить</DepsCian.RimTunes.Settings.Cache.Clear>
+  <DepsCian.RimTunes.Settings.Cache.ClearConfirm>Вы уверены, что хотите очистить кеш?</DepsCian.RimTunes.Settings.Cache.ClearConfirm>
+  <DepsCian.RimTunes.Settings.Cache.Cleared>Кеш очищен.</DepsCian.RimTunes.Settings.Cache.Cleared>
+  <DepsCian.RimTunes.Settings.Cache.CurrentSize>Текущий размер кеша: {size}</DepsCian.RimTunes.Settings.Cache.CurrentSize>
+  <DepsCian.RimTunes.Settings.Cache.ModsTitle>Кеш модов</DepsCian.RimTunes.Settings.Cache.ModsTitle>
+  <DepsCian.RimTunes.Settings.Cache.Open>Папка</DepsCian.RimTunes.Settings.Cache.Open>
+  <DepsCian.RimTunes.Settings.Cache.RemoteTitle>Кеш удалённых песен</DepsCian.RimTunes.Settings.Cache.RemoteTitle>
+  <DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>Эта функция может повлиять на производительность. Используйте с осторожностью.</DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>Изменяйте горячие клавиши с осторожностью. Вы можете заменить стандартные горячие клавиши RimWorld на клавиши RimTunes.</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>
+  <DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>Осторожно!</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>
+  <DepsCian.RimTunes.Settings.Hotkeys.Interface>Интерфейс</DepsCian.RimTunes.Settings.Hotkeys.Interface>
+  <DepsCian.RimTunes.Settings.Hotkeys.Player>Плеер</DepsCian.RimTunes.Settings.Hotkeys.Player>
+  <DepsCian.RimTunes.Settings.Hotkeys.PressKeys>Нажмите любую клавишу...</DepsCian.RimTunes.Settings.Hotkeys.PressKeys>
+  <DepsCian.RimTunes.Settings.Hotkeys.Reset>Сбросить</DepsCian.RimTunes.Settings.Hotkeys.Reset>
+  <DepsCian.RimTunes.Settings.Info.Debug>Отладка</DepsCian.RimTunes.Settings.Info.Debug>
+  <DepsCian.RimTunes.Settings.Tab.Cache>Кеш</DepsCian.RimTunes.Settings.Tab.Cache>
+  <DepsCian.RimTunes.Settings.Tab.Experimental>Экспериментальное</DepsCian.RimTunes.Settings.Tab.Experimental>
+  <DepsCian.RimTunes.Songs.Converting>Конвертация...</DepsCian.RimTunes.Songs.Converting>
+  <DepsCian.RimTunes.Settings.Groups.Appearance>Внешний вид</DepsCian.RimTunes.Settings.Groups.Appearance>
+  <DepsCian.RimTunes.Settings.Groups.Colors>Цвета</DepsCian.RimTunes.Settings.Groups.Colors>
+  <DepsCian.RimTunes.Settings.Groups.General>Общие</DepsCian.RimTunes.Settings.Groups.General>
+  <DepsCian.RimTunes.Settings.Groups.Playback>Воспроизведение</DepsCian.RimTunes.Settings.Groups.Playback>
+  <DepsCian.RimTunes.Settings.Player.Autoplay.Tip>Начинать песню при входе в сохранение</DepsCian.RimTunes.Settings.Player.Autoplay.Tip>
+  <DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>Показывать количество песен в плейлисте</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>
+  <DepsCian.RimTunes.AllowedSeasons>Разрешённые времена года: {0}</DepsCian.RimTunes.AllowedSeasons>
+  <DepsCian.RimTunes.Common.Save>Сохранить</DepsCian.RimTunes.Common.Save>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>Временная метка для этого диапазона уже существует.</DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>
+  <DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>Диапазон времени: {min} - {max}</DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>По умолчанию</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>Удалить</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>Запретить</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>
+  <DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>Требовать</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>
+  <DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>Теги, соответствующие вашему поиску, не найдены.</DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>
+  <DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>Щёлкните правой кнопкой мыши для доступа к опциям.</DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>
+  <DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>Поиск...</DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>
+  <DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>Воспроизводится в промежутке {range}</DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Title>Редактирование тегов для: {songName}</DepsCian.RimTunes.Dialogs.TagEditor.Title>
+  <DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>{label}\n\n{description}</DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>
+  <DepsCian.RimTunes.MusicOverlay.NextSong>Далее: {songName}</DepsCian.RimTunes.MusicOverlay.NextSong>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS>Включить DMS</DepsCian.RimTunes.Settings.Game.EnableDMS>
+  <DepsCian.RimTunes.Settings.Game.EnableDMS.Description>Динамическая музыкальная система автоматически выбирает треки в зависимости от текущей игровой ситуации.</DepsCian.RimTunes.Settings.Game.EnableDMS.Description>
+  <DepsCian.RimTunes.Settings.Game.NoSongSelected>Песня не выбрана</DepsCian.RimTunes.Settings.Game.NoSongSelected>
+  <DepsCian.RimTunes.Settings.Groups.Fading>Затухание</DepsCian.RimTunes.Settings.Groups.Fading>
+  <DepsCian.RimTunes.Settings.Groups.IdleSilence>Тишина при бездействии</DepsCian.RimTunes.Settings.Groups.IdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence>Включить тишину при бездействии</DepsCian.RimTunes.Settings.Player.EnableIdleSilence>
+  <DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>Если включено, музыка будет приостановлена после периода бездействия.</DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>
+  <DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>Включить нормализацию громкости</DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>
+  <DepsCian.RimTunes.Settings.Player.FadeOutDuration>Продолжительность затухания</DepsCian.RimTunes.Settings.Player.FadeOutDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>Продолжительность бездействия до тишины</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>
+  <DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>Продолжительность бездействия, после которой музыка будет приостановлена.</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>
+  <DepsCian.RimTunes.Settings.Player.SilenceDuration>Продолжительность тишины</DepsCian.RimTunes.Settings.Player.SilenceDuration>
+  <DepsCian.RimTunes.Songs.EditTags>Редактировать теги</DepsCian.RimTunes.Songs.EditTags>
+  <DepsCian.RimTunes.Songs.PastedToPlaylist>Вставлено {count} песен в плейлист «{playlist}»</DepsCian.RimTunes.Songs.PastedToPlaylist>
+  <DepsCian.RimTunes.Tags.Ambient.Description>Воспроизводится в мирных, фоновых ситуациях.</DepsCian.RimTunes.Tags.Ambient.Description>
+  <DepsCian.RimTunes.Tags.Category.Biome>Биом</DepsCian.RimTunes.Tags.Category.Biome>
+  <DepsCian.RimTunes.Tags.Category.GameCondition>Игровое условие</DepsCian.RimTunes.Tags.Category.GameCondition>
+  <DepsCian.RimTunes.Tags.Category.General>Общее</DepsCian.RimTunes.Tags.Category.General>
+  <DepsCian.RimTunes.Tags.Category.RoyalTitle>Королевский титул</DepsCian.RimTunes.Tags.Category.RoyalTitle>
+  <DepsCian.RimTunes.Tags.Category.Seasons>Времена года</DepsCian.RimTunes.Tags.Category.Seasons>
+  <DepsCian.RimTunes.Tags.Category.Time>Время</DepsCian.RimTunes.Tags.Category.Time>
+  <DepsCian.RimTunes.Tags.Category.Weather>Погода</DepsCian.RimTunes.Tags.Category.Weather>
+  <DepsCian.RimTunes.Tags.Day.Description>Воспроизводится в дневное время.</DepsCian.RimTunes.Tags.Day.Description>
+  <DepsCian.RimTunes.Tags.Night.Description>Воспроизводится в ночное время.</DepsCian.RimTunes.Tags.Night.Description>
+  <DepsCian.RimTunes.Tags.Peaceful.Description>Воспроизводится в мирное время.</DepsCian.RimTunes.Tags.Peaceful.Description>
+  <DepsCian.RimTunes.Tags.Season.Description>Воспроизводится в сезон «{season}».</DepsCian.RimTunes.Tags.Season.Description>
+  <DepsCian.RimTunes.Tags.Tense.Description>Воспроизводится в напряжённых ситуациях, таких как бой.</DepsCian.RimTunes.Tags.Tense.Description>
+  <DepsCian.RimTunes.MusicOverlay.DmsBadge>Состояние DMS:</DepsCian.RimTunes.MusicOverlay.DmsBadge>
+  <DepsCian.RimTunes.Settings.Game.DmsPlaylist>Плейлист DMS</DepsCian.RimTunes.Settings.Game.DmsPlaylist>
+  <DepsCian.RimTunes.Songs.Columns.Tags>Теги</DepsCian.RimTunes.Songs.Columns.Tags>
+</LanguageData>

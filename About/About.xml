@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+    <name>RimTunes</name>
+    <author>DepsCian</author>
+    <packageId>DepsCian.RimTunes</packageId>
+    <description>A powerful, in-game music manager that replaces the vanilla system. Add your own music, create playlists, and enjoy a dynamic soundtrack that adapts to in-game events. Your colony, your music.</description>
+    <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3399705740</url>
+    <supportedVersions>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+</ModMetaData>

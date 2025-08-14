@@ -1,0 +1,158 @@
+name: Bug Report
+description: Report a bug you’ve encountered while using RimTunes.
+title: "<Short description of the bug>"
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Welcome to Bug Reporting!
+        Please fill out this form completely to help us resolve your issue quickly. Incomplete reports may delay the process.
+
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before You Report
+      description: Complete these troubleshooting steps **before** submitting your bug report. Check all that apply
+      options:
+        - label: I’ve tested with a new save to see if the bug persists
+          required: true
+        - label: I’ve confirmed RimWorld and RimTunes are on the latest versions
+          required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: List the exact steps to trigger the bug. Be specific
+      placeholder: |
+        1. Launch a save.
+        2. Open the RimTunes interface.
+        3. Try adjusting the volume slider.
+        4. Observe the issue.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What should happen when you follow the steps above
+      placeholder: e.g., The volume should increase or decrease when moving the slider
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior
+      description: What actually happens instead
+      placeholder: e.g., The slider moves, but the volume stays the same
+    validations:
+      required: true
+
+  - type: dropdown
+    id: log-method
+    attributes:
+      label: Log Submission Method
+      description: Choose how you’ll provide logs (optional, but highly recommended for debugging)
+      options:
+        - HugsLib Log URL
+        - Manual Player.log Files
+    validations:
+      required: false
+
+  - type: input
+    id: hugslib-log-url
+    attributes:
+      label: HugsLib Log URL
+      description: If using HugsLib, paste the log URL here (Ctrl + F12 in-game)
+      placeholder: e.g., https://gist.github.com/...
+    validations:
+      required: false
+
+  - type: textarea
+    id: manual-logs
+    attributes:
+      label: Manual Player.log Files
+      description: If uploading manually, provide links or attach Player.log files for both mod enabled and disabled states
+      placeholder: |
+        - Mod Enabled: [Link or attach]
+        - Mod Disabled: [Link or attach]
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: save-file
+    attributes:
+      label: Save File
+      description: Does this bug require a specific save file to reproduce
+      options:
+        - label: Yes, I’ll attach a save file (upload as .zip or provide a link below)
+          required: false
+        - label: No, a save file isn’t needed
+          required: false
+
+  - type: input
+    id: save-file-link
+    attributes:
+      label: Save File Link
+      description: If applicable, provide a link to your save file
+      placeholder: e.g., https://drive.google.com/...
+    validations:
+      required: false
+
+  - type: textarea
+    id: mod-list
+    attributes:
+      label: Mod List
+      description: List all active mods or attach ModsConfig.xml
+      placeholder: |
+        - Core
+        - HugsLib
+        - RimTunes
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Anything else we should know? (e.g., recent updates, specific conditions)
+      placeholder: e.g., This started after updating RimWorld to version X
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## File Locations
+        Need help finding files? Here’s where to look:
+
+        | File              | Location                                                                 |
+        |-------------------|--------------------------------------------------------------------------|
+        | **Player.log**    | **Windows**: `%appdata%/../LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/` <br> **MacOS**: `~/Library/Application Support/RimWorld By Ludeon Studios/` <br> **Linux**: `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/` |
+        | **ModsConfig.xml**| In the `Config` subdirectory of the above paths                         |
+        | **Save Files**    | In the `Saves` subdirectory of the above paths                          |
+
+        > **Tip**: Use HugsLib (Ctrl + F12) for easy log uploads!
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Important Notes
+      description: Please confirm the following before submitting
+      options:
+        - label: I understand that screenshots alone aren't enough - logs are recommended
+          required: true
+        - label: I've tested with other mods disabled to rule out conflicts (if applicable)
+          required: false
+        - label: I've provided all required information to the best of my ability
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for reporting!**  
+        Your detailed report helps us improve RimTunes. We’ll investigate and respond as soon as possible.

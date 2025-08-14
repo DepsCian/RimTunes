@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Common -->
+	<DepsCian.RimTunes.Common.Settings>Settings</DepsCian.RimTunes.Common.Settings>
+	<DepsCian.RimTunes.Common.Confirm>Confirm</DepsCian.RimTunes.Common.Confirm>
+	<DepsCian.RimTunes.Common.Create>Create</DepsCian.RimTunes.Common.Create>
+	<DepsCian.RimTunes.Common.Rename>Rename</DepsCian.RimTunes.Common.Rename>
+	<DepsCian.RimTunes.Common.Add>Add</DepsCian.RimTunes.Common.Add>
+	<DepsCian.RimTunes.Common.Delete>Delete</DepsCian.RimTunes.Common.Delete>
+	<DepsCian.RimTunes.Common.Close>Close</DepsCian.RimTunes.Common.Close>
+	<DepsCian.RimTunes.Common.Search>Search</DepsCian.RimTunes.Common.Search>
+	<DepsCian.RimTunes.Common.Play>Play</DepsCian.RimTunes.Common.Play>
+	<DepsCian.RimTunes.Common.Refresh>Refresh</DepsCian.RimTunes.Common.Refresh>
+	<DepsCian.RimTunes.Common.URL>Link</DepsCian.RimTunes.Common.URL>
+	<DepsCian.RimTunes.Common.Error>Error</DepsCian.RimTunes.Common.Error>
+	<DepsCian.RimTunes.Common.AddMusic>Add Music</DepsCian.RimTunes.Common.AddMusic>
+	<DepsCian.RimTunes.Common.Pause>Pause</DepsCian.RimTunes.Common.Pause>
+
+	<!-- Settings -->
+	<DepsCian.RimTunes.Settings.Tab.Game>Game</DepsCian.RimTunes.Settings.Tab.Game>
+	<DepsCian.RimTunes.Settings.Tab.Hotkeys>Hotkeys</DepsCian.RimTunes.Settings.Tab.Hotkeys>
+	<DepsCian.RimTunes.Settings.Tab.Player>Player</DepsCian.RimTunes.Settings.Tab.Player>
+	<DepsCian.RimTunes.Settings.Tab.Overlay>Overlay</DepsCian.RimTunes.Settings.Tab.Overlay>
+	<DepsCian.RimTunes.Settings.Tab.Info>Info</DepsCian.RimTunes.Settings.Tab.Info>
+
+	<DepsCian.RimTunes.Settings.Game.StartSongOnLoad>Start song on load</DepsCian.RimTunes.Settings.Game.StartSongOnLoad>
+	<DepsCian.RimTunes.Settings.Game.RememberLastSong>Remember last song</DepsCian.RimTunes.Settings.Game.RememberLastSong>
+
+	<DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>Open interface</DepsCian.RimTunes.Settings.Hotkeys.OpenInterface>
+	<DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>Hide overlay</DepsCian.RimTunes.Settings.Hotkeys.HideOverlay>
+	<DepsCian.RimTunes.Settings.Hotkeys.NextSong>Next song</DepsCian.RimTunes.Settings.Hotkeys.NextSong>
+	<DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>Previous song</DepsCian.RimTunes.Settings.Hotkeys.PreviousSong>
+	<DepsCian.RimTunes.Settings.Hotkeys.Pause>Play/pause</DepsCian.RimTunes.Settings.Hotkeys.Pause>
+	<DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>Warning! RimTunes does not check hotkeys for conflicts with RimWorld</DepsCian.RimTunes.Settings.Hotkeys.ConflictWarning>
+
+	<DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>Show playlist song count</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount>
+	<DepsCian.RimTunes.Settings.Player.Autoplay>Autoplay</DepsCian.RimTunes.Settings.Player.Autoplay>
+
+	<DepsCian.RimTunes.Settings.Overlay.Scale>Interface scale</DepsCian.RimTunes.Settings.Overlay.Scale>
+	<DepsCian.RimTunes.Settings.Overlay.LockPosition>Lock position</DepsCian.RimTunes.Settings.Overlay.LockPosition>
+	<DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>Show seekbar</DepsCian.RimTunes.Settings.Overlay.ToggleSeekbar>
+	<DepsCian.RimTunes.Settings.Overlay.Colors.Background>Background color</DepsCian.RimTunes.Settings.Overlay.Colors.Background>
+	<DepsCian.RimTunes.Settings.Overlay.Colors.Text>Text color</DepsCian.RimTunes.Settings.Overlay.Colors.Text>
+	<DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>Seekbar color</DepsCian.RimTunes.Settings.Overlay.Colors.Seekbar>
+	<DepsCian.RimTunes.Settings.Overlay.Colors.Button>Button color</DepsCian.RimTunes.Settings.Overlay.Colors.Button>
+
+	<DepsCian.RimTunes.Settings.Info.Version>Version</DepsCian.RimTunes.Settings.Info.Version>
+	<DepsCian.RimTunes.Settings.Info.Description>RimTunes - Enhanced music management for RimWorld
+		Author: Sergiy Melnychuk (DepsCian)
+		Based on Fluffy's Music Manager fork</DepsCian.RimTunes.Settings.Info.Description>
+	<DepsCian.RimTunes.Settings.Info.ReportIssue>Report an issue</DepsCian.RimTunes.Settings.Info.ReportIssue>
+	<DepsCian.RimTunes.Settings.Info.SuggestFeature>Suggest a feature</DepsCian.RimTunes.Settings.Info.SuggestFeature>
+	<DepsCian.RimTunes.Settings.Info.Reset>Reset settings</DepsCian.RimTunes.Settings.Info.Reset>
+	<DepsCian.RimTunes.Settings.Info.Reset.Confirm>Are you sure you want to reset all settings to default?</DepsCian.RimTunes.Settings.Info.Reset.Confirm>
+	<DepsCian.RimTunes.Settings.Info.Reset.Complete>Settings have been reset to default</DepsCian.RimTunes.Settings.Info.Reset.Complete>
+
+	<DepsCian.RimTunes.Settings.Intervals.Peace>Peace</DepsCian.RimTunes.Settings.Intervals.Peace>
+	<DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>Peaceful intervals</DepsCian.RimTunes.Settings.Intervals.PeaceTooltip>
+	<DepsCian.RimTunes.Settings.Intervals.War>War</DepsCian.RimTunes.Settings.Intervals.War>
+	<DepsCian.RimTunes.Settings.Intervals.WarTooltip>War intervals</DepsCian.RimTunes.Settings.Intervals.WarTooltip>
+	<DepsCian.RimTunes.Settings.SongIntervalPeace>Song interval (peace)</DepsCian.RimTunes.Settings.SongIntervalPeace>
+	<DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>Interval between songs during peace</DepsCian.RimTunes.Settings.SongIntervalPeace.Tip>
+	<DepsCian.RimTunes.Settings.SongIntervalWar>Song interval (war)</DepsCian.RimTunes.Settings.SongIntervalWar>
+	<DepsCian.RimTunes.Settings.SongIntervalWar.Tip>Interval between songs during war</DepsCian.RimTunes.Settings.SongIntervalWar.Tip>
+
+	<!-- Add Music -->
+	<DepsCian.RimTunes.AddMusic.Tabs.Library>Music Library</DepsCian.RimTunes.AddMusic.Tabs.Library>
+	<DepsCian.RimTunes.AddMusic.Tabs.Online>Online</DepsCian.RimTunes.AddMusic.Tabs.Online>
+	<DepsCian.RimTunes.AddMusic.Tabs.Local>Local Files</DepsCian.RimTunes.AddMusic.Tabs.Local>
+	<DepsCian.RimTunes.AddMusic.Tabs.Local.Back>Back</DepsCian.RimTunes.AddMusic.Tabs.Local.Back>
+	<DepsCian.RimTunes.AddMusic.AddSongs>Add {count} {count:song|songs}</DepsCian.RimTunes.AddMusic.AddSongs>
+
+	<!-- Songs -->
+	<DepsCian.RimTunes.Songs.Columns.Name>Name</DepsCian.RimTunes.Songs.Columns.Name>
+	<DepsCian.RimTunes.Songs.Columns.Duration>Duration</DepsCian.RimTunes.Songs.Columns.Duration>
+	<DepsCian.RimTunes.Songs.Columns.Source>Source</DepsCian.RimTunes.Songs.Columns.Source>
+	<DepsCian.RimTunes.Songs.Delete>Delete song</DepsCian.RimTunes.Songs.Delete>
+	<DepsCian.RimTunes.Songs.Delete.Confirm>Are you sure you want to delete this song?</DepsCian.RimTunes.Songs.Delete.Confirm>
+	<DepsCian.RimTunes.Songs.Delete.Complete>Song deleted</DepsCian.RimTunes.Songs.Delete.Complete>
+	<DepsCian.RimTunes.Songs.Rename>Rename song</DepsCian.RimTunes.Songs.Rename>
+	<DepsCian.RimTunes.Songs.Select>Select</DepsCian.RimTunes.Songs.Select>
+	<DepsCian.RimTunes.Songs.Deselect>Deselect</DepsCian.RimTunes.Songs.Deselect>
+	<DepsCian.RimTunes.Songs.CopySelected>Copy selected</DepsCian.RimTunes.Songs.CopySelected>
+	<DepsCian.RimTunes.Songs.PasteFromClipboard>Paste from clipboard</DepsCian.RimTunes.Songs.PasteFromClipboard>
+	<DepsCian.RimTunes.Songs.CopiedToClipboard>Copied to clipboard</DepsCian.RimTunes.Songs.CopiedToClipboard>
+	<DepsCian.RimTunes.Songs.GoToModPlaylist>Goto source playlist</DepsCian.RimTunes.Songs.GoToModPlaylist>
+
+	<!-- Search -->
+	<DepsCian.RimTunes.Search.NoSongsFound>No songs found</DepsCian.RimTunes.Search.NoSongsFound>
+	<DepsCian.RimTunes.Search.NoSongsMatch>There are no songs that match this query</DepsCian.RimTunes.Search.NoSongsMatch>
+
+	<!-- Playlists -->
+	<DepsCian.RimTunes.Playlists.Library>My Music Library</DepsCian.RimTunes.Playlists.Library>
+	<DepsCian.RimTunes.Playlists.Playlists>Playlists</DepsCian.RimTunes.Playlists.Playlists>
+	<DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>New Playlist</DepsCian.RimTunes.Playlists.Dialogs.CreatePlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>Rename Playlist</DepsCian.RimTunes.Playlists.Dialogs.RenamePlaylist>
+	<DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>Add to Playlist</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist>
+	<DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>Song added to playlist</DepsCian.RimTunes.Playlists.ContextMenu.AddToPlaylist.Complete>
+	<DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>Remove from Playlist</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist>
+	<DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>Song removed from playlist</DepsCian.RimTunes.Playlists.ContextMenu.RemoveFromPlaylist.Complete>
+	<DepsCian.RimTunes.Playlists.Messages.PlaylistExist>Playlist name already exists</DepsCian.RimTunes.Playlists.Messages.PlaylistExist>
+	<DepsCian.RimTunes.Playlists.PlaylistEmpty>Playlist is empty</DepsCian.RimTunes.Playlists.PlaylistEmpty>
+	<DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>Add songs to the playlist</DepsCian.RimTunes.Playlists.PlaylistEmpty.Description>
+	<DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>Move Up</DepsCian.RimTunes.Playlists.ContextMenu.MoveUp>
+	<DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>Move Down</DepsCian.RimTunes.Playlists.ContextMenu.MoveDown>
+	<DepsCian.RimTunes.Playlists.Merge>Merge</DepsCian.RimTunes.Playlists.Merge>
+	<DepsCian.RimTunes.Playlists.Merge.Confirmation>Are you sure you want to merge the playlists?</DepsCian.RimTunes.Playlists.Merge.Confirmation>
+	<DepsCian.RimTunes.Playlists.Merge.Complete>Playlists merged</DepsCian.RimTunes.Playlists.Merge.Complete>
+	<DepsCian.RimTunes.Playlists.ChangeIcon>Change icon</DepsCian.RimTunes.Playlists.ChangeIcon>
+
+	<!-- Columns -->
+	<DepsCian.RimTunes.Columns.Name.Label>Name</DepsCian.RimTunes.Columns.Name.Label>
+	<DepsCian.RimTunes.Columns.Name.Tooltip>Song name</DepsCian.RimTunes.Columns.Name.Tooltip>
+	<DepsCian.RimTunes.Columns.Length.Label>Duration</DepsCian.RimTunes.Columns.Length.Label>
+	<DepsCian.RimTunes.Columns.Length.Tooltip>Song duration</DepsCian.RimTunes.Columns.Length.Tooltip>
+	<DepsCian.RimTunes.Columns.TimeOfDay.Label>Time of Day</DepsCian.RimTunes.Columns.TimeOfDay.Label>
+	<DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>Time of day to play</DepsCian.RimTunes.Columns.TimeOfDay.Tooltip>
+	<DepsCian.RimTunes.Columns.Tense.Label>Status</DepsCian.RimTunes.Columns.Tense.Label>
+	<DepsCian.RimTunes.Columns.Tense.Tooltip>Colony status during playback</DepsCian.RimTunes.Columns.Tense.Tooltip>
+	<DepsCian.RimTunes.Columns.Seasons.Label>Seasons</DepsCian.RimTunes.Columns.Seasons.Label>
+	<DepsCian.RimTunes.Columns.Seasons.Tooltip>Season for playback</DepsCian.RimTunes.Columns.Seasons.Tooltip>
+	<DepsCian.RimTunes.Columns.Filtered>Filtered</DepsCian.RimTunes.Columns.Filtered>
+	<DepsCian.RimTunes.Columns.Sorted>Sorted</DepsCian.RimTunes.Columns.Sorted>
+
+	<!-- States -->
+	<DepsCian.RimTunes.States.War>War</DepsCian.RimTunes.States.War>
+	<DepsCian.RimTunes.States.Peace>Peace</DepsCian.RimTunes.States.Peace>
+
+	<!-- Dialogs -->
+	<DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>XML copied</DepsCian.RimTunes.Playlists.Dialogs.XmlCopied>
+	<DepsCian.RimTunes.Playlists.Dialogs.CopyXml>Copy XML</DepsCian.RimTunes.Playlists.Dialogs.CopyXml>
+	<DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>Export playlist</DepsCian.RimTunes.Playlists.Dialogs.ExportPlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>Import playlist</DepsCian.RimTunes.Playlists.Dialogs.ImportPlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.PasteXml>Paste XML</DepsCian.RimTunes.Playlists.Dialogs.PasteXml>
+	<DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>Paste from clipboard</DepsCian.RimTunes.Playlists.Dialogs.PasteFromClipboard>
+	<DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>Import progress</DepsCian.RimTunes.Playlists.Dialogs.ImportProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>Export progress</DepsCian.RimTunes.Playlists.Dialogs.ExportProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.LocalSong>Local song</DepsCian.RimTunes.Playlists.Dialogs.LocalSong>
+	<DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>Remote song</DepsCian.RimTunes.Playlists.Dialogs.RemoteSong>
+	<DepsCian.RimTunes.Playlists.Dialogs.Uploading>Uploading</DepsCian.RimTunes.Playlists.Dialogs.Uploading>
+	<DepsCian.RimTunes.Playlists.Dialogs.Downloading>Downloading</DepsCian.RimTunes.Playlists.Dialogs.Downloading>
+	<DepsCian.RimTunes.Playlists.Dialogs.Processing>Processing</DepsCian.RimTunes.Playlists.Dialogs.Processing>
+	<DepsCian.RimTunes.Playlists.Dialogs.Queued>Queued</DepsCian.RimTunes.Playlists.Dialogs.Queued>
+	<DepsCian.RimTunes.Playlists.Dialogs.Completed>Completed</DepsCian.RimTunes.Playlists.Dialogs.Completed>
+	<DepsCian.RimTunes.Playlists.Dialogs.Failed>Failed</DepsCian.RimTunes.Playlists.Dialogs.Failed>
+	<DepsCian.RimTunes.Playlists.Dialogs.RetryImport>Retry import</DepsCian.RimTunes.Playlists.Dialogs.RetryImport>
+	<DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>Mods panel</DepsCian.RimTunes.Playlists.Dialogs.ModsPanel>
+	<DepsCian.RimTunes.Playlists.Dialogs.StartImport>Start import</DepsCian.RimTunes.Playlists.Dialogs.StartImport>
+	<DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>Merge playlist</DepsCian.RimTunes.Playlists.Dialogs.MergePlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>Replace playlist</DepsCian.RimTunes.Playlists.Dialogs.ReplacePlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.Cancel>Cancel</DepsCian.RimTunes.Playlists.Dialogs.Cancel>
+	<DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>No internet connection</DepsCian.RimTunes.Playlists.Dialogs.NoInternetConnection>
+	<DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>Select at least one song</DepsCian.RimTunes.Playlists.Dialogs.SelectAtLeastOneSong>
+	<DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>XML parse error</DepsCian.RimTunes.Playlists.Dialogs.XmlParseError>
+	<DepsCian.RimTunes.Playlists.Dialogs.ImportError>Import error</DepsCian.RimTunes.Playlists.Dialogs.ImportError>
+	<DepsCian.RimTunes.Playlists.Dialogs.ExportError>Export error</DepsCian.RimTunes.Playlists.Dialogs.ExportError>
+	<DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>Download progress</DepsCian.RimTunes.Playlists.Dialogs.DownloadProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>Download errors</DepsCian.RimTunes.Playlists.Dialogs.DownloadErrors>
+	<DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>In progress</DepsCian.RimTunes.Playlists.Dialogs.DownloadInProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>Total progress</DepsCian.RimTunes.Playlists.Dialogs.TotalProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.Downloaded>Downloaded</DepsCian.RimTunes.Playlists.Dialogs.Downloaded>
+	<DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>Playlist imported</DepsCian.RimTunes.Playlists.Dialogs.PlaylistImported>
+	<DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>No songs to import</DepsCian.RimTunes.Playlists.Dialogs.NoSongsToImport>
+	<DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>Available songs</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongs>
+	<DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>Songs that can be imported</DepsCian.RimTunes.Playlists.Dialogs.AvailableSongsDesc>
+	<DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>Remote songs</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongs>
+	<DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>Songs that need to be downloaded</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongsDesc>
+	<DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>Unavailable songs</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongs>
+	<DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>Songs that require missing mods</DepsCian.RimTunes.Playlists.Dialogs.UnavailableSongsDesc>
+	<DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>Mod previews progress</DepsCian.RimTunes.Playlists.Dialogs.ModPreviewsProgress>
+	<DepsCian.RimTunes.Playlists.Dialogs.Checking>Checking</DepsCian.RimTunes.Playlists.Dialogs.Checking>
+	<DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>Song not found</DepsCian.RimTunes.Playlists.Dialogs.SongNotFound>
+	<DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>Remote song has no URL</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongNoUrl>
+	<DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>Failed to import local song</DepsCian.RimTunes.Playlists.Dialogs.LocalSongImportError>
+	<DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>Failed to import remote song</DepsCian.RimTunes.Playlists.Dialogs.RemoteSongImportError>
+	<DepsCian.RimTunes.Playlists.Dialogs.ModInactive>Mod inactive</DepsCian.RimTunes.Playlists.Dialogs.ModInactive>
+	<DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>Mod not installed</DepsCian.RimTunes.Playlists.Dialogs.ModNotInstalled>
+	<DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>Available on Workshop</DepsCian.RimTunes.Playlists.Dialogs.ModWorkshopAvailable>
+	<DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>Unknown mod</DepsCian.RimTunes.Playlists.Dialogs.UnknownMod>
+	<DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>Cannot export empty playlist</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylist>
+	<DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>XML contains empty playlist</DepsCian.RimTunes.Playlists.Dialogs.EmptyPlaylistInXml>
+	<DepsCian.RimTunes.Playlists.Dialogs.EmptyXml>XML cannot be empty</DepsCian.RimTunes.Playlists.Dialogs.EmptyXml> 
+
+	<DepsCian.RimTunes.Settings.Cache.Calculating>Calculating...</DepsCian.RimTunes.Settings.Cache.Calculating>
+	<DepsCian.RimTunes.Settings.Cache.Clear>Clear</DepsCian.RimTunes.Settings.Cache.Clear>
+	<DepsCian.RimTunes.Settings.Cache.ClearConfirm>Are you sure you want to clear the cache?</DepsCian.RimTunes.Settings.Cache.ClearConfirm>
+	<DepsCian.RimTunes.Settings.Cache.Cleared>Cache cleared.</DepsCian.RimTunes.Settings.Cache.Cleared>
+	<DepsCian.RimTunes.Settings.Cache.CurrentSize>Current cache size: {size}</DepsCian.RimTunes.Settings.Cache.CurrentSize>
+	<DepsCian.RimTunes.Settings.Cache.ModsTitle>Mods Cache</DepsCian.RimTunes.Settings.Cache.ModsTitle>
+	<DepsCian.RimTunes.Settings.Cache.Open>Folder</DepsCian.RimTunes.Settings.Cache.Open>
+	<DepsCian.RimTunes.Settings.Cache.RemoteTitle>Remote Songs Cache</DepsCian.RimTunes.Settings.Cache.RemoteTitle>
+	<DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>This feature may affect performance. Use with caution.</DepsCian.RimTunes.Settings.Experimental.NormalizationWarning>
+	<DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>Change hotkey with caution. Because you can replace RimWorld standard hotkeys with RimTunes ones.</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Body>
+	<DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>Caution!</DepsCian.RimTunes.Settings.Hotkeys.Conflict.Title>
+	<DepsCian.RimTunes.Settings.Hotkeys.Interface>Interface</DepsCian.RimTunes.Settings.Hotkeys.Interface>
+	<DepsCian.RimTunes.Settings.Hotkeys.Player>Player</DepsCian.RimTunes.Settings.Hotkeys.Player>
+	<DepsCian.RimTunes.Settings.Hotkeys.PressKeys>Press any key...</DepsCian.RimTunes.Settings.Hotkeys.PressKeys>
+	<DepsCian.RimTunes.Settings.Hotkeys.Reset>Reset</DepsCian.RimTunes.Settings.Hotkeys.Reset>
+	<DepsCian.RimTunes.Settings.Info.Debug>Debug</DepsCian.RimTunes.Settings.Info.Debug>
+	<DepsCian.RimTunes.Settings.Tab.Cache>Cache</DepsCian.RimTunes.Settings.Tab.Cache>
+	<DepsCian.RimTunes.Settings.Tab.Experimental>Experimental</DepsCian.RimTunes.Settings.Tab.Experimental>
+	<DepsCian.RimTunes.Songs.Converting>Converting...</DepsCian.RimTunes.Songs.Converting>
+
+	<DepsCian.RimTunes.Settings.Groups.Appearance>Appearance</DepsCian.RimTunes.Settings.Groups.Appearance>
+	<DepsCian.RimTunes.Settings.Groups.Colors>Colors</DepsCian.RimTunes.Settings.Groups.Colors>
+	<DepsCian.RimTunes.Settings.Groups.General>General</DepsCian.RimTunes.Settings.Groups.General>
+	<DepsCian.RimTunes.Settings.Groups.Playback>Playback</DepsCian.RimTunes.Settings.Groups.Playback>
+	<DepsCian.RimTunes.Settings.Player.Autoplay.Tip>Stars song when entering save</DepsCian.RimTunes.Settings.Player.Autoplay.Tip>
+	<DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>Show count of songs in playlist</DepsCian.RimTunes.Settings.Player.ShowPlaylistSongCount.Tip>
+
+	<DepsCian.RimTunes.AllowedSeasons>Allowed seasons: {0}</DepsCian.RimTunes.AllowedSeasons>
+	<DepsCian.RimTunes.Common.Save>Save</DepsCian.RimTunes.Common.Save>
+	<DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>A time tag for this exact range already exists.</DepsCian.RimTunes.Dialogs.CreateTimeTag.TagExistsError>
+	<DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>Time Range: {min} - {max}</DepsCian.RimTunes.Dialogs.CreateTimeTag.TimeRangeLabel>
+	<DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>Default</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Default>
+	<DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>Delete</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Delete>
+	<DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>Forbid</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Forbid>
+	<DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>Require</DepsCian.RimTunes.Dialogs.TagEditor.ContextMenu.Require>
+	<DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>No tags match your search.</DepsCian.RimTunes.Dialogs.TagEditor.NoTagsMatch>
+	<DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>Right-click for options.</DepsCian.RimTunes.Dialogs.TagEditor.RightClickForOptions>
+	<DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>Search...</DepsCian.RimTunes.Dialogs.TagEditor.SearchPlaceholder>
+	<DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>Plays between {range}</DepsCian.RimTunes.Dialogs.TagEditor.TimeTagDescription>
+	<DepsCian.RimTunes.Dialogs.TagEditor.Title>Editing Tags for: {songName}</DepsCian.RimTunes.Dialogs.TagEditor.Title>
+	<DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>{label}\n\n{description}</DepsCian.RimTunes.Dialogs.TagEditor.Tooltip>
+	<DepsCian.RimTunes.MusicOverlay.NextSong>Next: {songName}</DepsCian.RimTunes.MusicOverlay.NextSong>
+	<DepsCian.RimTunes.Settings.Game.EnableDMS>Enable DMS</DepsCian.RimTunes.Settings.Game.EnableDMS>
+	<DepsCian.RimTunes.Settings.Game.EnableDMS.Description>Dynamic Music System automatically selects tracks based on the current in-game situation.</DepsCian.RimTunes.Settings.Game.EnableDMS.Description>
+	<DepsCian.RimTunes.Settings.Game.NoSongSelected>No song selected</DepsCian.RimTunes.Settings.Game.NoSongSelected>
+	<DepsCian.RimTunes.Settings.Groups.Fading>Fading</DepsCian.RimTunes.Settings.Groups.Fading>
+	<DepsCian.RimTunes.Settings.Groups.IdleSilence>Idle Silence</DepsCian.RimTunes.Settings.Groups.IdleSilence>
+	<DepsCian.RimTunes.Settings.Player.EnableIdleSilence>Enable Idle Silence</DepsCian.RimTunes.Settings.Player.EnableIdleSilence>
+	<DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>When enabled, the music will be paused after a period of inactivity.</DepsCian.RimTunes.Settings.Player.EnableIdleSilence.Tip>
+	<DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>Enable Volume Normalization</DepsCian.RimTunes.Settings.Player.EnableVolumeNormalization>
+	<DepsCian.RimTunes.Settings.Player.FadeOutDuration>Fade Out Duration</DepsCian.RimTunes.Settings.Player.FadeOutDuration>
+	<DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>Idle Silence Duration</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration>
+	<DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>The duration of inactivity before the music is paused.</DepsCian.RimTunes.Settings.Player.IdleSilenceDuration.Tip>
+	<DepsCian.RimTunes.Settings.Player.SilenceDuration>Silence Duration</DepsCian.RimTunes.Settings.Player.SilenceDuration>
+	<DepsCian.RimTunes.Songs.EditTags>Edit Tags</DepsCian.RimTunes.Songs.EditTags>
+	<DepsCian.RimTunes.Songs.PastedToPlaylist>Pasted {count} songs to {playlist}</DepsCian.RimTunes.Songs.PastedToPlaylist>
+	<DepsCian.RimTunes.Tags.Ambient.Description>Plays during non-combat, ambient situations.</DepsCian.RimTunes.Tags.Ambient.Description>
+	<DepsCian.RimTunes.Tags.Category.Biome>Biome</DepsCian.RimTunes.Tags.Category.Biome>
+	<DepsCian.RimTunes.Tags.Category.GameCondition>Game Condition</DepsCian.RimTunes.Tags.Category.GameCondition>
+	<DepsCian.RimTunes.Tags.Category.General>General</DepsCian.RimTunes.Tags.Category.General>
+	<DepsCian.RimTunes.Tags.Category.RoyalTitle>Royal Title</DepsCian.RimTunes.Tags.Category.RoyalTitle>
+	<DepsCian.RimTunes.Tags.Category.Seasons>Seasons</DepsCian.RimTunes.Tags.Category.Seasons>
+	<DepsCian.RimTunes.Tags.Category.Time>Time</DepsCian.RimTunes.Tags.Category.Time>
+	<DepsCian.RimTunes.Tags.Category.Weather>Weather</DepsCian.RimTunes.Tags.Category.Weather>
+	<DepsCian.RimTunes.Tags.Day.Description>Plays during the day.</DepsCian.RimTunes.Tags.Day.Description>
+	<DepsCian.RimTunes.Tags.Night.Description>Plays during the night.</DepsCian.RimTunes.Tags.Night.Description>
+	<DepsCian.RimTunes.Tags.Peaceful.Description>Plays during peaceful times.</DepsCian.RimTunes.Tags.Peaceful.Description>
+	<DepsCian.RimTunes.Tags.Season.Description>Plays during {season}.</DepsCian.RimTunes.Tags.Season.Description>
+	<DepsCian.RimTunes.Tags.Tense.Description>Plays during tense situations like combat.</DepsCian.RimTunes.Tags.Tense.Description>
+
+  <DepsCian.RimTunes.MusicOverlay.DmsBadge>DMS state: </DepsCian.RimTunes.MusicOverlay.DmsBadge>
+  <DepsCian.RimTunes.Settings.Game.DmsPlaylist>DMS Playlist</DepsCian.RimTunes.Settings.Game.DmsPlaylist>
+  <DepsCian.RimTunes.Songs.Columns.Tags>Tags</DepsCian.RimTunes.Songs.Columns.Tags>
+</LanguageData>
