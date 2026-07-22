@@ -21,6 +21,41 @@ jobs:
           test -f Assemblies/RimTunes.dll || { echo "ERROR: Assemblies/RimTunes.dll missing"; exit 1; }
           echo "Mod structure OK"
 
+      - name: Convert release notes to BBCode
+        id: bbcode
+        run: |
+          python3 -c "
+          import re, sys, os
+          md = os.environ.get('RELEASE_BODY', '')
+          md = md.replace('\\r', '')
+          md = re.sub(r'^### (.+)$', r'[h3]\1[/h3]', md, flags=re.M)
+          md = re.sub(r'^## (.+)$', r'[h2]\1[/h2]', md, flags=re.M)
+          md = re.sub(r'^# (.+)$', r'[h1]\1[/h1]', md, flags=re.M)
+          md = re.sub(r'\*\*(.+?)\*\*', r'[b]\1[/b]', md)
+          md = re.sub(r'\*(.+?)\*', r'[i]\1[/i]', md)
+          lines = md.split('\n')
+          out = []
+          in_list = False
+          for line in lines:
+              if re.match(r'^- ', line):
+                  if not in_list:
+                      out.append('[list]')
+                      in_list = True
+                  out.append('[*]' + line[2:])
+              else:
+                  if in_list:
+                      out.append('[/list]')
+                      in_list = False
+                  out.append(line)
+          if in_list:
+              out.append('[/list]')
+          result = '\n'.join(out)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write('notes<<EOF\n' + result + '\nEOF\n')
+          "
+        env:
+          RELEASE_BODY: ${{ github.event.release.body }}
+
       - name: Upload to Steam Workshop
         uses: m00nl1ght-dev/steam-workshop-deploy@v4
         with:
@@ -29,4 +64,4 @@ jobs:
           path: .
           appId: ${{ env.APP_ID }}
           publishedFileId: ${{ env.PUBLISHED_FILE_ID }}
-          changeNote: ${{ github.event.release.tag_name }}
+          changeNote: ${{ steps.bbcode.outputs.notes }}
