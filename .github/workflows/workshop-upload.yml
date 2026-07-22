@@ -11,6 +11,7 @@ env:
 jobs:
   workshop-upload:
     runs-on: ubuntu-latest
+    permissions: {}
     steps:
       - name: Checkout mod
         uses: actions/checkout@v4
@@ -24,15 +25,19 @@ jobs:
       - name: Convert release notes to BBCode
         id: bbcode
         run: |
-          python3 -c "
-          import re, sys, os
+          python3 <<'PYEOF'
+          import re, os
+
           md = os.environ.get('RELEASE_BODY', '')
-          md = md.replace('\\r', '')
+          md = md.replace('\r', '')
+
+          md = re.sub(r'\[(.+?)\]\((.+?)\)', r'[url=\2]\1[/url]', md)
           md = re.sub(r'^### (.+)$', r'[h3]\1[/h3]', md, flags=re.M)
           md = re.sub(r'^## (.+)$', r'[h2]\1[/h2]', md, flags=re.M)
           md = re.sub(r'^# (.+)$', r'[h1]\1[/h1]', md, flags=re.M)
           md = re.sub(r'\*\*(.+?)\*\*', r'[b]\1[/b]', md)
           md = re.sub(r'\*(.+?)\*', r'[i]\1[/i]', md)
+
           lines = md.split('\n')
           out = []
           in_list = False
@@ -49,10 +54,14 @@ jobs:
                   out.append(line)
           if in_list:
               out.append('[/list]')
+
           result = '\n'.join(out)
+          assert result.strip(), "BBCode conversion produced empty output"
+
+          sentinel = 'BBEOF_' + os.urandom(8).hex()
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-              f.write('notes<<EOF\n' + result + '\nEOF\n')
-          "
+              f.write(f'notes<<{sentinel}\n{result}\n{sentinel}\n')
+          PYEOF
         env:
           RELEASE_BODY: ${{ github.event.release.body }}
 
