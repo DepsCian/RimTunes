@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DepsCian/RimTunes/releases">
-    <img src="https://img.shields.io/badge/Version-1.6.5-brightgreen.svg" alt="Version 1.6.5" />
+    <img src="https://img.shields.io/badge/Version-1.6.6-brightgreen.svg" alt="Version 1.6.6" />
   </a>
   <img src="https://img.shields.io/badge/RimWorld-1.6-purple.svg" alt="RimWorld 1.6" />
   <a href="LICENSE">
