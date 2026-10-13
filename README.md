@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/DepsCian/RimTunes/releases">
-    <img src="https://img.shields.io/badge/Version-1.6.6-brightgreen.svg" alt="Version 1.6.6" />
+    <img src="https://img.shields.io/badge/Version-1.7.0-brightgreen.svg" alt="Version 1.7.0" />
   </a>
-  <img src="https://img.shields.io/badge/RimWorld-1.6-purple.svg" alt="RimWorld 1.6" />
+  <img src="https://img.shields.io/badge/RimWorld-1.5--1.7-purple.svg" alt="RimWorld 1.5 to 1.7" />
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />
   </a>
@@ -147,7 +147,7 @@ Supports **Ctrl**, **Alt**, **Shift**, and **Cmd** modifiers.
 
 ## Requirements
 
-- RimWorld 1.6
+- RimWorld 1.5, 1.6 or 1.7
 - Harmony
 
 **No DLC is required.**
