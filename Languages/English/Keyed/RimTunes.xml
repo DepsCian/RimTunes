@@ -337,6 +337,8 @@
   <DepsCian.RimTunes.Songs.TagsPasted>Pasted tags to {count} {count:song|songs}</DepsCian.RimTunes.Songs.TagsPasted>
   <DepsCian.RimTunes.Tags.Ambient.Description>Plays during calm, everyday moments</DepsCian.RimTunes.Tags.Ambient.Description>
   <DepsCian.RimTunes.Tags.Category.Biome>Biome</DepsCian.RimTunes.Tags.Category.Biome>
+  <DepsCian.RimTunes.Tags.Category.Enemies>Enemies</DepsCian.RimTunes.Tags.Category.Enemies>
+  <DepsCian.RimTunes.Tags.Category.EnemyKinds>Enemy types</DepsCian.RimTunes.Tags.Category.EnemyKinds>
   <DepsCian.RimTunes.Tags.Category.Events>Events</DepsCian.RimTunes.Tags.Category.Events>
   <DepsCian.RimTunes.Tags.Category.General>General</DepsCian.RimTunes.Tags.Category.General>
   <DepsCian.RimTunes.Tags.Category.Royalty>Royalty</DepsCian.RimTunes.Tags.Category.Royalty>
@@ -344,6 +346,9 @@
   <DepsCian.RimTunes.Tags.Category.Time>Time</DepsCian.RimTunes.Tags.Category.Time>
   <DepsCian.RimTunes.Tags.Category.Weather>Weather</DepsCian.RimTunes.Tags.Category.Weather>
   <DepsCian.RimTunes.Tags.Day.Description>Plays during the day</DepsCian.RimTunes.Tags.Day.Description>
+  <DepsCian.RimTunes.Tags.Enemy.Boss>Boss</DepsCian.RimTunes.Tags.Enemy.Boss>
+  <DepsCian.RimTunes.Tags.Enemy.Boss.Description>Only during an active boss threat. Takes priority over ordinary combat music. Requiring this tag makes the song combat music.</DepsCian.RimTunes.Tags.Enemy.Boss.Description>
+  <DepsCian.RimTunes.Tags.Enemy.Kind.Description>Only against {kind}. Multiple enemy types match any one; combined with Boss, the boss must match. Requiring this tag makes the song combat music. Source: {source}. ID: {defName}</DepsCian.RimTunes.Tags.Enemy.Kind.Description>
   <DepsCian.RimTunes.Tags.Fall.Description>Plays during fall</DepsCian.RimTunes.Tags.Fall.Description>
   <DepsCian.RimTunes.Tags.Map.Description>Plays on the world map</DepsCian.RimTunes.Tags.Map.Description>
   <DepsCian.RimTunes.Tags.Night.Description>Plays during the night</DepsCian.RimTunes.Tags.Night.Description>
