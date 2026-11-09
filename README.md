@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DepsCian/RimTunes/releases">
-    <img src="https://img.shields.io/badge/Version-1.7.0-brightgreen.svg" alt="Version 1.7.0" />
+    <img src="https://img.shields.io/badge/Version-1.7.1-brightgreen.svg" alt="Version 1.7.1" />
   </a>
   <img src="https://img.shields.io/badge/RimWorld-1.5--1.7-purple.svg" alt="RimWorld 1.5 to 1.7" />
   <a href="LICENSE">
@@ -36,6 +36,7 @@ Choose a mode on first launch and change it anytime in Settings.
 Turn your library into a living RimWorld soundtrack. Tag songs for specific conditions and let RimTunes select suitable tracks automatically.
 
 - **Danger** — Tense music during raids and combat, calmer music when danger passes
+- **Enemies** — Boss music while a boss is on the map, combat music for regular threats, or tracks tied to specific enemy types
 - **Time of day** — Daytime, nighttime, and custom time ranges
 - **Weather** — Rain, snow, fog, toxic fallout, and more
 - **Seasons** — Spring, summer, fall, and winter
@@ -46,6 +47,8 @@ Turn your library into a living RimWorld soundtrack. Tag songs for specific cond
 RimTunes avoids recently played tracks, supports smooth transitions, and can use either your whole library or one selected playlist.
 
 > **Example:** Tag a song as **Peaceful + Night + Winter** for quiet snowy evenings, then forbid it during danger so it never plays in a raid.
+
+> **Example:** Mark your favorite epic track as **Boss** and it takes over the soundtrack during boss fights, then hands back to regular combat music when the fight is over.
 
 ## Mini-Player Overlay
 
@@ -99,6 +102,7 @@ Tell the Dynamic Music System when a song should, or should not, play.
 | Category | Available tags |
 | --- | --- |
 | Mood | Tense, Peaceful, Ambient |
+| Enemies | Boss and enemy types, auto-generated from the game and installed mods |
 | Time of day | Day, Night, and custom time ranges |
 | Seasons | Spring, Summer, Fall, Winter |
 | Environment | Weather conditions and biomes |
